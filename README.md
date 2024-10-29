@@ -135,6 +135,5 @@ If you find DynaMath helpful for your research, please cite
       title={DynaMath: A Dynamic Visual Benchmark for Evaluating Mathematical Reasoning Robustness of Vision Language Models}, 
       author={Chengke Zou and Xingang Guo and Rui Yang and Junyu Zhang and Bin Hu and Huan Zhang},
       year={2024},
-      archivePrefix={arXiv},
 }
 ```
