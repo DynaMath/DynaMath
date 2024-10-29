@@ -1,0 +1,15 @@
+Does California have a higher value than Illinois?
+
+(A) Yes
+(B) No
+
+Answer: (A)
+
+Let's think this step by step: From the map:
+
+- **California** is shaded in dark blue, indicating a percentage range of **12.4% - 22.7%** of adults reporting arthritis by race/ethnicity.
+- **Illinois** is shaded in light blue, indicating a percentage range of **4.9% - 5.4%**.
+
+Thus, **California** has a **higher** value than **Illinois**.
+
+The correct option is **A**.

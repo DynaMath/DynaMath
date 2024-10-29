@@ -1,0 +1,17 @@
+What is the sum of accuracies of the algorithm border for all the datasets?	
+
+Answer: 23
+
+Let's think this step by step: To find the sum of the accuracies for the "border" algorithm across all datasets (map, crack, and flower), let's read the values from the bar chart:
+
+- **Map (blue)**: The accuracy is 5.
+- **Crack (orange)**: The accuracy is 9.
+- **Flower (green)**: The accuracy is 9.
+
+Now, sum these values:
+
+\[
+5 + 9 + 9 = 23
+\]
+
+Thus, the sum of the accuracies for the "border" algorithm across all datasets is **23**.

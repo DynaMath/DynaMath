@@ -1,0 +1,24 @@
+How many groups of bars contain at least one bar with value greater than 8?
+
+Answer: 4
+
+Let's think this step by step: 
+From the bar chart, let's check each group of bars to see if at least one bar in the group has a value greater than 8:
+
+1. **Bee**: The blue bar (thesis) is greater than 8.
+2. **Summit**: No bar exceeds 8.
+3. **Gloom**: The orange bar (import) is greater than 8.
+4. **Urge**: No bar exceeds 8.
+5. **Quack**: No bar exceeds 8.
+6. **Stove**: Both bars (thesis and import) are greater than 8.
+7. **Usage**: The orange bar (import) is greater than 8.
+
+Thus, the groups that contain at least one bar with a value greater than 8 are:
+- Bee
+- Gloom
+- Stove
+- Usage
+
+There are **4 groups** where at least one bar has a value greater than 8.
+
+The correct option is **4**.

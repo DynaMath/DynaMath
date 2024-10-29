@@ -1,0 +1,35 @@
+Please answer the question and provide the correct option letter, e.g., A, B, C, D, at the end. Question: As shown in the figure, AB is the diameter of the semicircle, point O is the center of the circle, point C is a point on the extended line of AB, and CD is tangent to the semicircle at point D. If AB = 6.0, CD = 4.0, then the value of sin∠C is () 
+Choices: (A) \frac{3}{4} (B) \frac{3}{5} (C) \frac{4}{5} (D) \frac{2}{3}
+
+Answer: (B)
+
+Let's think this step by step: To solve this problem, we can make use of the properties of the circle and the tangent line. Here's a step-by-step breakdown of the approach:
+
+1. **Recognize the Geometry:**
+   - \( AB \) is the diameter of the semicircle, so the length of \( AB \) is 6. This makes the radius of the circle \( AO = BO = 3 \).
+   - \( CD \) is tangent to the semicircle at point \( D \). Tangents to a circle are perpendicular to the radius at the point of tangency, meaning \( OD \perp CD \).
+
+2. **Set Up the Triangle:**
+   - We are asked to find \( \sin(\angle C) \). The triangle we should focus on is triangle \( ODC \).
+   - By the properties of a tangent, \( \angle ODC = 90^\circ \).
+
+3. **Apply Pythagoras’ Theorem:**
+   - In the right triangle \( ODC \), we have the lengths \( OD = 3 \) (since it's the radius of the circle), and \( CD = 4 \) (given).
+   - To find \( OC \), use the Pythagorean theorem:
+     \[
+     OC^2 = OD^2 + CD^2
+     \]
+     \[
+     OC^2 = 3^2 + 4^2 = 9 + 16 = 25
+     \]
+     \[
+     OC = 5
+     \]
+
+4. **Find \( \sin(\angle C) \):**
+   - From triangle \( ODC \), \( \sin(\angle C) = \frac{OD}{OC} \).
+   \[
+   \sin(\angle C) = \frac{3}{5}
+   \]
+
+Thus, the correct option is \( B \).

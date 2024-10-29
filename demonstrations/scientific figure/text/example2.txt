@@ -1,0 +1,16 @@
+What would happen to the population of snowshoe hares if the population of red foxes decreased?
+(A) The amount of snowshoe hares available would remain the same.
+(B) The amount of snowshoe hares available would decrease.
+(C) The amount of snowshoe hares available would double.
+(D) The amount of snowshoe hares available would increase.
+
+Answer: (D)
+
+Let's think this step by step: 
+In the food web, red foxes are secondary consumers that prey on snowshoe hares, which are primary consumers. If the population of red foxes decreased, there would be less predation on snowshoe hares. As a result, the population of snowshoe hares would likely increase due to the reduced threat from predators.
+
+An increase in the snowshoe hare population might lead to increased grazing pressure on plants like balsam fir and other vegetation that the hares feed on, which could eventually reduce the availability of these plants.
+
+**Conclusion:** If the red fox population decreased, the population of snowshoe hares would likely **increase**, which could lead to overgrazing of the plants they depend on.
+
+The correct option is **D**.

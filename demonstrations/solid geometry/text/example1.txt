@@ -1,0 +1,24 @@
+The faces of the prism shown, are made up of two triangles and three squares. The six vertices are labelled using the numbers 1 to 6. The sum of the four numbers around each square is always the same. The numbers 1 and 5 are given in the diagram. Which number is written at vertex $X$? 
+
+Answer: 2
+
+Let's think this step by step: Let's try to deduce the number at vertex \( X \) step by step.
+
+We are given that the sum of the four numbers around each square face is always the same, and two of the numbers are provided: 1 at vertex 1 and 5 at vertex 5.
+
+### Approach:
+1. Consider the three squares on the sides of the prism:
+   - Square 1: Involves vertices 1, \( X \), and two other vertices from the bottom triangle.
+   - Square 2: Involves vertex 5, \( X \), and two other vertices.
+   - Square 3: Another square connecting the top and bottom triangles.
+
+2. We are told the sum of the numbers around each square is constant. This means that for each square, the sum of the four numbers must be the same.
+
+3. Vertex \( X \) must be filled in such a way that the sum of the numbers around each square face is balanced.
+
+### Insight:
+- Since vertex 1 is labeled 1, and vertex 5 is labeled 5, we aim to balance the numbers across the squares.
+- The number at vertex \( X \) must balance the sums of these squares while keeping the sums consistent.
+
+### Conclusion:
+The correct number at vertex \( X \) is **2**.

@@ -1,0 +1,17 @@
+Please answer the question and provide the correct option letter, e.g., A, B, C, D, at the end. Question: Find the length of GH. Choices: (A) 16 (B) 12 (C) 28 (D) 4
+
+Answer: (D)
+
+Let's think this step by step: From the figure:
+- \( GF = 16 \, \text{units} \) (the full hypotenuse),
+- \( HF = 12 \, \text{units} \).
+
+Thus, to find \( GH \):
+
+\[
+GH = GF - HF = 16 - 12 = 4 \, \text{units}.
+\]
+
+Therefore, the length of \( GH \) is **4** units.
+
+The correct option is **D**.

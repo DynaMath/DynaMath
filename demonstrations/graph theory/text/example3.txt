@@ -1,0 +1,22 @@
+The diagram shows a map with 16 towns which are connected via roads. The government is planning to build power plants in some towns. Each power plant can generate enough electricity for the town in which it stands as well as for its immediate neighbouring towns (i.e. towns that can be reached via a direct connecting road). What is the minimum number of power plants that have to be built?
+
+Answer: 4
+
+Let's think this step by step: To solve this problem, we need to place the fewest number of power plants in towns such that every town either has a power plant or is directly connected by a road to a town with a power plant.
+
+This is a variation of the **minimum dominating set** problem on a graph, where each node (town) in the graph either has a power plant or is adjacent to a node that has one.
+
+### Strategy:
+1. Focus on the towns that have many roads (connections), as placing power plants there will cover more neighboring towns.
+2. Check that all towns are either directly covered or are neighbors of towns that have power plants.
+
+### Analysis of the Graph:
+The graph in the diagram resembles a 4x4 grid, though slightly distorted. Let's place the power plants step-by-step:
+
+- **Step 1**: Start with the second town in the second row from the top, as it has multiple connections. This covers most of the surrounding towns.
+- **Step 2**: Place another plant on the second town from the left in the bottom row, which will cover the bottom left corner and its neighbors.
+- **Step 3**: Place a third power plant on the second town from the right in the top row. This will ensure coverage of the top-right section of the map.
+- **Step 4**: If any remaining towns are still uncovered, place an additional power plant in the center.
+
+### Conclusion:
+The minimum number of power plants required to cover all towns is **4**. By placing these 4 strategically, we ensure that all towns are either directly connected to a town with a power plant or have one themselves.

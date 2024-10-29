@@ -1,0 +1,11 @@
+What is the number of the parking space containing the car?
+
+Answer: 87
+
+To solve this brainteaser, we need to look at the numbers upside down:
+
+When you flip the image upside down, the numbers become clear:
+
+- **86**, **87**, **88**, **89**, **90**, and **91**.
+
+Thus, the parking space containing the car is number **87**.

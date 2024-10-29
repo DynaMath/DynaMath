@@ -1,0 +1,4010 @@
+{
+    "1": {
+        "question": "What is the period of this function y = a*sin(b*x), where both a and b are integers? Answer the question with a floating-point number.",
+        "answer": "3.1416",
+        "image": "image/image1.png",
+        "answer_type": "float",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "2": {
+        "question": "Use the graph to answer the question below. Which month is the hottest on average in Cape Town?",
+        "answer": "May",
+        "image": "image/image2.png",
+        "answer_type": "text",
+        "subject": "statistics",
+        "level": "elementary school"
+    },
+    "3": {
+        "question": "The players on a quiz show received the following scores. What is the mean of the numbers?",
+        "answer": "6.125",
+        "image": "image/image3.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "4": {
+        "question": "A real estate agent looked into how many houses were sold in different cities. What is the range of the numbers?",
+        "answer": "16",
+        "image": "image/image4.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "5": {
+        "question": "Is Dark Magenta greater than Rosy Brown? Choices: (A) yes (B) no",
+        "answer": "B",
+        "image": "image/image5.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "elementary school"
+    },
+    "6": {
+        "question": "Is this a periodic function? Choices: (A) Yes (B) No",
+        "answer": "A",
+        "image": "image/image6.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "7": {
+        "question": "In the addition sum to the right, three digits have been replaced with star. What is the value of star?",
+        "answer": "2",
+        "image": "image/image7.png",
+        "answer_type": "float",
+        "subject": "arithmetic",
+        "level": "elementary school"
+    },
+    "8": {
+        "question": "As shown in the figure, AO is the height of the cone, the bottom radius of the cone OB = 13, the length of AB is 17.692, then the length of AO is ()?",
+        "answer": "12.0003",
+        "image": "image/image8.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "9": {
+        "question": "Find the perimeter of orange square.",
+        "answer": "24",
+        "image": "image/image9.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "elementary school"
+    },
+    "10": {
+        "question": "Find the perimeter of the orange triangle.",
+        "answer": "18",
+        "image": "image/image10.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "elementary school"
+    },
+    "11": {
+        "question": "As shown in the figure, lines AB and CD intersect at point O. OF bisects \u2220AOC. If \u2220AOF = 63, then what is the degree of \u2220AOD?",
+        "answer": "54",
+        "image": "image/image11.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "12": {
+        "question": "What is the period of this function y = a*cos(b*x), where both a and b are integers? Answer the question with a floating-point number.",
+        "answer": "3.1416",
+        "image": "image/image12.png",
+        "answer_type": "float",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "13": {
+        "question": "As shown in the figure, AI, BI, and CI bisect \u2220BAC, \u2220ABC, and \u2220ACB, respectively. ID is perpendicular to BC. The perimeter of \u25b3ABC is 66, and ID = 11. What is the area of \u25b3ABC",
+        "answer": "363.0",
+        "image": "image/image13.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "14": {
+        "question": "The period of the red curve is ____ that of the blue curve. Choices: (A) larger than (B) equal to (C) smaller than",
+        "answer": "B",
+        "image": "image/image14.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "15": {
+        "question": "how many zeros this function has? choice: (A) 2 (B) 1 (C) 0",
+        "answer": "C",
+        "image": "image/image15.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "16": {
+        "question": "Find the value of the last row of calculations.",
+        "answer": "12",
+        "image": "image/image16.png",
+        "answer_type": "float",
+        "subject": "algebra",
+        "level": "high school"
+    },
+    "17": {
+        "question": "Find the area of the blue square.",
+        "answer": "9",
+        "image": "image/image17.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "elementary school"
+    },
+    "18": {
+        "question": "Find the area of this triangle. Answer the question with a floating-point number.",
+        "answer": "1.7321",
+        "image": "image/image18.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "elementary school"
+    },
+    "19": {
+        "question": "What is the sum of accuracies of the bar group poison for all the datasets?",
+        "answer": "21",
+        "image": "image/image19.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "elementary school"
+    },
+    "20": {
+        "question": "How many groups of bars contain at least one bar with a value 9?",
+        "answer": "1",
+        "image": "image/image20.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "elementary school"
+    },
+    "21": {
+        "question": "What time is shown? Please answer in the form like __:__.",
+        "answer": "11:15",
+        "image": "image/image21.png",
+        "answer_type": "text",
+        "subject": "arithmetic",
+        "level": "elementary school"
+    },
+    "22": {
+        "question": "What is the difference between the number of black squares and the number of white squares?",
+        "answer": "1",
+        "image": "image/image22.png",
+        "answer_type": "float",
+        "subject": "arithmetic",
+        "level": "elementary school"
+    },
+    "23": {
+        "question": "Find the largest zero of this cubic function.",
+        "answer": "2",
+        "image": "image/image23.png",
+        "answer_type": "float",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "24": {
+        "question": "As shown in the figure, in triangle \u25b3ABC, points D, E, and F are the midpoints of each side. If the area of \u25b3ABC is 8 cm\u00b2, what is the area of \u25b3DEF?",
+        "answer": "2",
+        "image": "image/image24.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "25": {
+        "question": "What is the missing computed symbol? Choices: (A) + (B) - (C) * (D) /",
+        "answer": "B",
+        "image": "image/image25.png",
+        "answer_type": "multiple choice",
+        "subject": "arithmetic",
+        "level": "elementary school"
+    },
+    "26": {
+        "question": "The radius of the circle above is 5 and the angle of sector = 120\u00b0. What is the area of the shaded section of the circle?",
+        "answer": "26.1799",
+        "image": "image/image26.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "27": {
+        "question": "A three-quarter sector of a circle of radius 2 inches together with its interior can be rolled up to form the lateral surface area of a right circular cone by taping together along the two radii shown. What is the volume of the cone in cubic inches? ",
+        "answer": "3.117",
+        "image": "image/image27.png",
+        "answer_type": "float",
+        "subject": "solid geometry",
+        "level": "high school"
+    },
+    "28": {
+        "question": "The two rectangles shown in the picture have the same area. what is the ratio x: y.",
+        "answer": "0.7",
+        "image": "image/image28.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "29": {
+        "question": "Is the number of square even or odd? choice: (A) even (B) odd",
+        "answer": "A",
+        "image": "image/image29.png",
+        "answer_type": "multiple choice",
+        "subject": "arithmetic",
+        "level": "elementary school"
+    },
+    "30": {
+        "question": "Is purple greater orange? Choices: (A) yes (B) no",
+        "answer": "A",
+        "image": "image/image30.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "elementary school"
+    },
+    "31": {
+        "question": "a, b are two arbitrary number. According to the calculation of first row, find the value of second row of calculations. ",
+        "answer": "26",
+        "image": "image/image31.png",
+        "answer_type": "float",
+        "subject": "arithmetic",
+        "level": "elementary school"
+    },
+    "32": {
+        "question": "Let ABCD be a cyclic convex quadrilateral, AD = 2, DC = 5, BC = 8, AB = 8. Determine the value of AC * BD ",
+        "answer": "56",
+        "image": "image/image32.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "33": {
+        "question": "Is this a monotonic function? choice: (A) Yes (B) No",
+        "answer": "A",
+        "image": "image/image33.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "undergraduate"
+    },
+    "34": {
+        "question": "What is the area of this parallelogram?",
+        "answer": "117.7795",
+        "image": "image/image34.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "35": {
+        "question": "Find the value of the black square.",
+        "answer": "-17",
+        "image": "image/image35.png",
+        "answer_type": "float",
+        "subject": "arithmetic",
+        "level": "elementary school"
+    },
+    "36": {
+        "question": "Find the volume of the rectangular prism.",
+        "answer": "90",
+        "image": "image/image36.png",
+        "answer_type": "float",
+        "subject": "solid geometry",
+        "level": "high school"
+    },
+    "37": {
+        "question": "What is the value of the largest bar?",
+        "answer": "10",
+        "image": "image/image37.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "elementary school"
+    },
+    "38": {
+        "question": "As shown in the figure, in the right triangle ABC,  \u2220ACB=90\u00b0, D is the midpoint of AB, and  AB=3. What is the length of CD? ",
+        "answer": "1.5",
+        "image": "image/image38.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "39": {
+        "question": "Is Coral the roughest? choice: (A) Yes (B) No",
+        "answer": "A",
+        "image": "image/image39.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "40": {
+        "question": "What is the value of the star?",
+        "answer": "4",
+        "image": "image/image40.png",
+        "answer_type": "float",
+        "subject": "algebra",
+        "level": "high school"
+    },
+    "41": {
+        "question": "What is the perimeter of this parallelogram?",
+        "answer": "30",
+        "image": "image/image41.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "42": {
+        "question": "Is the graph shown connected? choice: (A) Yes (B) No",
+        "answer": "B",
+        "image": "image/image42.png",
+        "answer_type": "multiple choice",
+        "subject": "graph theory",
+        "level": "undergraduate"
+    },
+    "43": {
+        "question": "What fraction of the shape is azure?",
+        "answer": "0.5833",
+        "image": "image/image43.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "44": {
+        "question": "The perimeter of green rectangle is 12 cm.There is a azure square on each side of green rectangle, with each side of the rectangle being the side length of one of the squares. Given that the sum of the areas of the four squares is 36 cm\u00b2, find the area of the green rectangle. ",
+        "answer": "9",
+        "image": "image/image44.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "45": {
+        "question": "In \u25b3ABC, D is a point on BC, and BD=3, DC=1, and the area of \u25b3ACD is 14. What is the area of \u25b3ABC?",
+        "answer": "56",
+        "image": "image/image45.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "46": {
+        "question": "what is the limit of this function as x approches 1?",
+        "answer": "-1",
+        "image": "image/image46.png",
+        "answer_type": "float",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "47": {
+        "question": "What is the radius of this circle?",
+        "answer": "4",
+        "image": "image/image47.png",
+        "answer_type": "float",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "48": {
+        "question": "How much money does Hunter need to buy 2 calendars?",
+        "answer": "20",
+        "image": "image/image48.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "elementary school"
+    },
+    "49": {
+        "question": "In the parallelogram ABCD, \u2220A=126. What is the measure of \u2220C?",
+        "answer": "126",
+        "image": "image/image49.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "50": {
+        "question": "Which function grows faster? choice: (A) Orange (B) Blue",
+        "answer": "B",
+        "image": "image/image50.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "51": {
+        "question": "How many black squares need to be coloured in white, so that there are exactly fourth as many black squares as there are white squares? ",
+        "answer": "6",
+        "image": "image/image51.png",
+        "answer_type": "float",
+        "subject": "arithmetic",
+        "level": "elementary school"
+    },
+    "52": {
+        "question": "Is this function uniform continuous on the interval [-3, 3]? choice: (A) Yes (B) No",
+        "answer": "B",
+        "image": "image/image52.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "undergraduate"
+    },
+    "53": {
+        "question": "What is the area of blue ring?",
+        "answer": "50.2655",
+        "image": "image/image53.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "54": {
+        "question": "Is this function symmetric about the y-axis? choice: (A) Yes (B) No",
+        "answer": "A",
+        "image": "image/image54.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "55": {
+        "question": "Given the diagram, a circle with its center at the origin O intersects the x-axis at points A and B and intersects the positive half of the y-axis at point C. D is a point on the circle O located in the first quadrant. If \u2220DAB=15, then what is the measure of \u2220OCD?",
+        "answer": "60",
+        "image": "image/image55.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "56": {
+        "question": "Do the two functions intersect? choice: (A) Yes (B) No",
+        "answer": "B",
+        "image": "image/image56.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "57": {
+        "question": "What is the area of the part enclosed by four rectangles?",
+        "answer": "441",
+        "image": "image/image57.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "58": {
+        "question": "What is the asymptote of the function shown in image?",
+        "answer": "y = 0",
+        "image": "image/image58.png",
+        "answer_type": "text",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "59": {
+        "question": "According to image, a card is randomly selected from a standard 52-card deck. Find the probability that the next card selected after selecting this card from the deck is a heart.",
+        "answer": "0.2549",
+        "image": "image/image59.png",
+        "answer_type": "float",
+        "subject": "arithmetic",
+        "level": "high school"
+    },
+    "60": {
+        "question": "Find the surface area of the rectangular prism.",
+        "answer": "94",
+        "image": "image/image60.png",
+        "answer_type": "float",
+        "subject": "solid geometry",
+        "level": "high school"
+    },
+    "61": {
+        "question": "Where is the local min or max of the parabola shown in image at?",
+        "answer": "-0.125",
+        "image": "image/image61.png",
+        "answer_type": "float",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "62": {
+        "question": "If AD = 3, AB = 2, DC = 4, what is the area of trapezoid ABCD?",
+        "answer": "9.0",
+        "image": "image/image62.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "elementary school"
+    },
+    "63": {
+        "question": "The function f(x) is quadratic function. What is the value of f(x) when x = 3?",
+        "answer": "-52",
+        "image": "image/image63.png",
+        "answer_type": "float",
+        "subject": "algebra",
+        "level": "high school"
+    },
+    "64": {
+        "question": "What is the area enclosed by parabola and x-axis?",
+        "answer": "166.6667",
+        "image": "image/image64.png",
+        "answer_type": "float",
+        "subject": "analytic geometry",
+        "level": "undergraduate"
+    },
+    "65": {
+        "question": "If the area of the rectangle above is 36, what is the value of x?",
+        "answer": "10",
+        "image": "image/image65.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "66": {
+        "question": "If the perimeter of the rectangle above is 24, what is the value of x?",
+        "answer": "6",
+        "image": "image/image66.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "67": {
+        "question": "If the area of the circle is 22pi, what is the area of the square in circle?",
+        "answer": "44",
+        "image": "image/image67.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "68": {
+        "question": "What is the green curve? choice: (A) a parabola (B) a line (C) a logarithmic function (D) a trigonometric function ",
+        "answer": "D",
+        "image": "image/image68.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "69": {
+        "question": "Is the function convex or concave? choice: (A) convex (B) concave (C) both",
+        "answer": "B",
+        "image": "image/image69.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "70": {
+        "question": "What is the area of this triangle? Please using Heron's formula to solve this problem",
+        "answer": "9.9216",
+        "image": "image/image70.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "71": {
+        "question": "Move the ruler to measure the length of the line to the nearest centimeter. The line is about (_) centimeters long. ",
+        "answer": "1",
+        "image": "image/image71.png",
+        "answer_type": "float",
+        "subject": "arithmetic",
+        "level": "elementary school"
+    },
+    "72": {
+        "question": "According to the markov chain shown in the image, what is the probability of the event 'A to B'?",
+        "answer": "0.7",
+        "image": "image/image72.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "73": {
+        "question": "What is the vertical asymptote of the function shown in image?",
+        "answer": "x = 0",
+        "image": "image/image73.png",
+        "answer_type": "text",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "74": {
+        "question": "Find the perimeter of the rectangular prism.",
+        "answer": "128",
+        "image": "image/image74.png",
+        "answer_type": "float",
+        "subject": "solid geometry",
+        "level": "high school"
+    },
+    "75": {
+        "question": "Are the red line and the blue line parallel? choice: (A) Yes (B) No",
+        "answer": "B",
+        "image": "image/image75.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "76": {
+        "question": "O is the circumcircle of \u25b3ABC, with AB=BC=8. The arc AB is folded down along the chord AB to intersect BC at point D. If point D is the midpoint of BC, What is the length of AC?",
+        "answer": "5.6569",
+        "image": "image/image76.png",
+        "answer_type": "float",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "77": {
+        "question": "Find the area of shaded sectors.",
+        "answer": "8",
+        "image": "image/image77.png",
+        "answer_type": "float",
+        "subject": "analytic geometry",
+        "level": "undergraduate"
+    },
+    "78": {
+        "question": "Is the function differentiable at x = 0? choice: (A) Yes (B) No",
+        "answer": "A",
+        "image": "image/image78.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "undergraduate"
+    },
+    "79": {
+        "question": "Is the function continuous at x = 0? choice: (A) Yes (B) No",
+        "answer": "A",
+        "image": "image/image79.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "undergraduate"
+    },
+    "80": {
+        "question": "The side of the square is 4 ft. Find the length of diagonal AB",
+        "answer": "5.6569",
+        "image": "image/image80.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "81": {
+        "question": "As shown in the figure, AB is the diameter of \u2299O, point C is on \u2299O, passing point C to draw the tangent of \u2299O and it intersects the extended line of AB at point D. Connect AC. If \u2220D = 57, then what is the degree of \u2220A?",
+        "answer": "28.5",
+        "image": "image/image81.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "82": {
+        "question": "There is a cycle graph of C6 in the image. Fill the number in the empty slot so that it becomes the integers modulo 6 under addition (Z6). ",
+        "answer": "3",
+        "image": "image/image82.png",
+        "answer_type": "float",
+        "subject": "algebra",
+        "level": "undergraduate"
+    },
+    "83": {
+        "question": "As shown in the figure, points A, O, and B are collinear, and DO is perpendicular to CO. If \u2220BOC = 33\u00b0, what is the measure of \u2220AOD? ",
+        "answer": "57",
+        "image": "image/image83.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "84": {
+        "question": "What type of transformation of the left triangle was applied to become the right triangle? choice: (A) flip (B) rotation (C) enlargement (D) reduction ",
+        "answer": "B",
+        "image": "image/image84.png",
+        "answer_type": "multiple choice",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "85": {
+        "question": "The image shows a pythagorean tree. If the area of A and B are 22 and 12, what is the area of C?",
+        "answer": "34",
+        "image": "image/image85.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "86": {
+        "question": "Is this function continuous at x = 1? choice: (A) Yes (B) No",
+        "answer": "B",
+        "image": "image/image86.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "undergraduate"
+    },
+    "87": {
+        "question": "What is the limit of the function as x approaches 1 from the left side?",
+        "answer": "2",
+        "image": "image/image87.png",
+        "answer_type": "float",
+        "subject": "analytic geometry",
+        "level": "undergraduate"
+    },
+    "88": {
+        "question": "What is the limit of the function as x approaches 1 from the right side?",
+        "answer": "-2",
+        "image": "image/image88.png",
+        "answer_type": "float",
+        "subject": "analytic geometry",
+        "level": "undergraduate"
+    },
+    "89": {
+        "question": "Is the function injective? choice: (A) Yes (B) No",
+        "answer": "A",
+        "image": "image/image89.png",
+        "answer_type": "multiple choice",
+        "subject": "algebra",
+        "level": "undergraduate"
+    },
+    "90": {
+        "question": "Is the function surjective? choice: (A) Yes (B) No",
+        "answer": "A",
+        "image": "image/image90.png",
+        "answer_type": "multiple choice",
+        "subject": "algebra",
+        "level": "undergraduate"
+    },
+    "91": {
+        "question": "According to image, a card is randomly selected from a standard 52-card deck. Find the probability that the next card selected after selecting this card from the deck is a heart.",
+        "answer": "0.2353",
+        "image": "image/image91.png",
+        "answer_type": "float",
+        "subject": "arithmetic",
+        "level": "high school"
+    },
+    "92": {
+        "question": "Are the red line and the blue line perpendicular to each other? choice: (A) Yes (B) No",
+        "answer": "B",
+        "image": "image/image92.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "93": {
+        "question": "Given triangle \u25b3ABC with internal angle bisectors OB and OC intersecting at point O, if \u2220A = 119\u00b0, find the measure of \u2220BOC.",
+        "answer": "149.5",
+        "image": "image/image93.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "94": {
+        "question": "As shown in the figure, points A, O, and B are collinear, and DE is perpendicular to CO. If \u2220BOC = 12\u00b0, what is the measure of \u2220AOE? ",
+        "answer": "102",
+        "image": "image/image94.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "95": {
+        "question": "Two equilateral triangles of different sizes are placed on top of each other so that a hexagon is formed on the inside whose opposite sides are parallel. Four of the side lengths of the hexagon are stated in the diagram. How big is the perimeter of the hexagon? ",
+        "answer": "11",
+        "image": "image/image95.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "96": {
+        "question": "What is the distance between the x-intercept and y-intercept of blue line?",
+        "answer": "2.2361",
+        "image": "image/image96.png",
+        "answer_type": "float",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "97": {
+        "question": "Find the area of the shaded part.",
+        "answer": "4.5664",
+        "image": "image/image97.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "98": {
+        "question": "Is this function a period function? choice: (A) Yes (B) No",
+        "answer": "B",
+        "image": "image/image98.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "99": {
+        "question": "Is this function a period function? choice: (A) Yes (B) No",
+        "answer": "B",
+        "image": "image/image99.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "100": {
+        "question": "Using the food web above, what would happen to the other organisms if the number of lion were decreased? choice: (A) wolf will increase (B) leopard will decrease (C) camel will increase (D) Nothing happen",
+        "answer": "A",
+        "image": "image/image100.png",
+        "answer_type": "multiple choice",
+        "subject": "scientific figure",
+        "level": "high school"
+    },
+    "101": {
+        "question": "The derivative of f(x) at x=-4 is ____ that at x=0  choice: (A) larger than (B) smaller than (C) equal to",
+        "answer": "B",
+        "image": "image/image101.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "102": {
+        "question": "What is the function value when x = 1?",
+        "answer": "-7",
+        "image": "image/image102.png",
+        "answer_type": "float",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "103": {
+        "question": "The polar coordinates of a point are (1,4.94). Determine the Cartesian coordinates for the point. ",
+        "answer": "(0.226, -0.974)",
+        "image": "image/image103.png",
+        "answer_type": "text",
+        "subject": "analytic geometry",
+        "level": "undergraduate"
+    },
+    "104": {
+        "question": "The clock shows the time. What time is it? Answer in the form of __:__.",
+        "answer": "17:46",
+        "image": "image/image104.png",
+        "answer_type": "text",
+        "subject": "arithmetic",
+        "level": "elementary school"
+    },
+    "105": {
+        "question": "Which of the following numbers is the closest to the value of f(x) at x=1? choice: (A) 0 (B) -2 (C) -4 ",
+        "answer": "B",
+        "image": "image/image105.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "106": {
+        "question": "Is the function f:R\\{0}->R injective, surjective, or bijective? choice: (A) Injective (B) Surjective (C) Bijective (D) Neither ",
+        "answer": "D",
+        "image": "image/image106.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "undergraduate"
+    },
+    "107": {
+        "question": "Two identical circles are placed into a square in such a way that they are tangent to each other at a single point, and each circle is tangent to the square at two points, as shown. If the radius of each circle is 2 , what is the area of the square? ",
+        "answer": "46.6274",
+        "image": "image/image107.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "108": {
+        "question": "The function f(x) is a cubic function. What is the value of f(x) when x = 4?",
+        "answer": "-363",
+        "image": "image/image108.png",
+        "answer_type": "float",
+        "subject": "algebra",
+        "level": "high school"
+    },
+    "109": {
+        "question": "The image shows the derivative of f(x). Where is the local min or max of f(x) at?",
+        "answer": "1.0",
+        "image": "image/image109.png",
+        "answer_type": "float",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "110": {
+        "question": "The image shows the derivative of f(x). Where is the local min of f(x) at? ",
+        "answer": "-4",
+        "image": "image/image110.png",
+        "answer_type": "float",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "111": {
+        "question": "The image shows the derivative of f(x). Where is the local max of f(x) at?",
+        "answer": "-5",
+        "image": "image/image111.png",
+        "answer_type": "float",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "112": {
+        "question": "Find the area of azure part.",
+        "answer": "31.8086",
+        "image": "image/image112.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "113": {
+        "question": "The angle of the sector is 100 degree. What is the area of the blue part?",
+        "answer": "59.3412",
+        "image": "image/image113.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "114": {
+        "question": "What is on the north side of home? choice: (A) university (B) restaurant (C) park (D) library",
+        "answer": "B",
+        "image": "image/image114.png",
+        "answer_type": "multiple choice",
+        "subject": "scientific figure",
+        "level": "elementary school"
+    },
+    "115": {
+        "question": "The sum of the three numbers on each of the two lines of the cross is 106. Find the number in the center.",
+        "answer": "9",
+        "image": "image/image115.png",
+        "answer_type": "float",
+        "subject": "puzzle test",
+        "level": "elementary school"
+    },
+    "116": {
+        "question": "Squares ACDE and CBFG are constructed on the outside of \u25b3ABC with AC and BC as one side, respectively. Point P is the midpoint of EF. AC = 2, BC = 1, AB = 4, find the length of PQ.",
+        "answer": "2.0",
+        "image": "image/image116.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "117": {
+        "question": "Is this function bounded in interval [-8, 8]? choice: (A) Yes (B) No",
+        "answer": "B",
+        "image": "image/image117.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "undergraduate"
+    },
+    "118": {
+        "question": "What is the least upper bound of this function?",
+        "answer": "6.2832",
+        "image": "image/image118.png",
+        "answer_type": "float",
+        "subject": "analytic geometry",
+        "level": "undergraduate"
+    },
+    "119": {
+        "question": "Find the area of the shaded part.",
+        "answer": "1.0",
+        "image": "image/image119.png",
+        "answer_type": "float",
+        "subject": "analytic geometry",
+        "level": "undergraduate"
+    },
+    "120": {
+        "question": "Is this graph a cyclic graph? choice: (A) Yes (B) No",
+        "answer": "A",
+        "image": "image/image120.png",
+        "answer_type": "multiple choice",
+        "subject": "graph theory",
+        "level": "undergraduate"
+    },
+    "121": {
+        "question": "Which of the following fact is true about set A and set B in image?  choice: (A) A \u2282 B (B) A \u2283 B (C) A \u222a B (D) A \u2229 B = \u2205",
+        "answer": "C",
+        "image": "image/image121.png",
+        "answer_type": "multiple choice",
+        "subject": "algebra",
+        "level": "high school"
+    },
+    "122": {
+        "question": "In the diagram, there are three semi-circles. D is the diameter of left white semi-circle, and d is the diameter of the right white semi-circle. Find the area of azure part. ",
+        "answer": "31.4159",
+        "image": "image/image122.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "123": {
+        "question": "Find the perimeter of the sector of the circle with radius r.",
+        "answer": "3.0472",
+        "image": "image/image123.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "124": {
+        "question": "What is the purple curve? choice: (A) sigmoid function (B) tanh function (C) LeakyRelu function",
+        "answer": "A",
+        "image": "image/image124.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "undergraduate"
+    },
+    "125": {
+        "question": "Which quadrant this function lies?  choice: (A) first quadrant (B) second quadrant (C) third quadrant (D) fourth quadrant",
+        "answer": "C",
+        "image": "image/image125.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "126": {
+        "question": "The truncated right circular cone below has a large base radius 6 cm and a small base radius of 2 cm. The height of the truncated cone is 8 cm. What is the volume of this solid?",
+        "answer": "435.6342",
+        "image": "image/image126.png",
+        "answer_type": "float",
+        "subject": "solid geometry",
+        "level": "high school"
+    },
+    "127": {
+        "question": "The \u2660 is drawn on the sheet. We turn the sheet clockwise through 90\u00b0 and then turn counter-clockwise 180\u00b0. Which figure can we now see? choice: (A) (B) (C) (D)",
+        "answer": "B",
+        "image": "image/image127.png",
+        "answer_type": "multiple choice",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "128": {
+        "question": "The image shows the second derivative of cubic function f(x). Is f(x) concave or convex at x = 3?  choice: (A) convex (B) concave (C) inflection point",
+        "answer": "B",
+        "image": "image/image128.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "129": {
+        "question": "What is the volume of this azure right square pyramid?",
+        "answer": "41.6667",
+        "image": "image/image129.png",
+        "answer_type": "float",
+        "subject": "solid geometry",
+        "level": "high school"
+    },
+    "130": {
+        "question": "What is the surface area of this pink right square pyramid?",
+        "answer": "487.6277",
+        "image": "image/image130.png",
+        "answer_type": "float",
+        "subject": "solid geometry",
+        "level": "high school"
+    },
+    "131": {
+        "question": "f(z) = 89, C is the purple circle shown in the image. Find \u222bcf(z)dz.",
+        "answer": "0",
+        "image": "image/image131.png",
+        "answer_type": "float",
+        "subject": "analytic geometry",
+        "level": "undergraduate"
+    },
+    "132": {
+        "question": "If the black point is reflected in x-axis, what are the coordinates of its image? Please answer in the form (_, _) ",
+        "answer": "(-4, -5)",
+        "image": "image/image132.png",
+        "answer_type": "text",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "133": {
+        "question": "If the red point is reflected in y-axis, what are the coordinates of its image? Please answer in the form (_, _) ",
+        "answer": "(-3, -6)",
+        "image": "image/image133.png",
+        "answer_type": "text",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "134": {
+        "question": "If the blue point is reflected about the origin, what are the coordinates of its image? Please answer in the form (_, _) ",
+        "answer": "(-3, 0)",
+        "image": "image/image134.png",
+        "answer_type": "text",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "135": {
+        "question": "Find the distance between point A and point B.",
+        "answer": "7.6158",
+        "image": "image/image135.png",
+        "answer_type": "float",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "136": {
+        "question": "What is the shortest distance from node S to node G in this directed graph?",
+        "answer": "43",
+        "image": "image/image136.png",
+        "answer_type": "float",
+        "subject": "graph theory",
+        "level": "undergraduate"
+    },
+    "137": {
+        "question": "what is the first edge added to the MST when running Kruskal's Algorithm? In the case of a tie, choose the edge which comes first in alphabetical order i.e. if you had to choose between AS and AE, then you would choose AE first. ",
+        "answer": "DG",
+        "image": "image/image137.png",
+        "answer_type": "text",
+        "subject": "graph theory",
+        "level": "undergraduate"
+    },
+    "138": {
+        "question": "The figure shows graphs of functions $f$ and $g$ defined on real numbers. Each graph consists of two perpendicular halflines. Which equality is satisfied for every real number $x$?  choice: (A) f(x)=g(x)-6 (B) f(x)=-g(x - 6) (C) f(x)=g(x - 6) (D) f(x)=-g(x)-6",
+        "answer": "B",
+        "image": "image/image138.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "139": {
+        "question": "For each of the points A, B, C, D of the rectangle ABCD, the quotient (y-coordinate):(x-coordinate) is calculated. For which point will you obtain the smallest quotient?  choice: (A) A (B) B (C) C (D)",
+        "answer": "B",
+        "image": "image/image139.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "140": {
+        "question": "For each of the points A, B, C, D of the rectangle ABCD, the quotient (x-coordinate):(y-coordinate) is calculated. For which point will you obtain the smallest quotient?  choice: (A) A (B) B (C) C (D)",
+        "answer": "B",
+        "image": "image/image140.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "141": {
+        "question": "The length of the diameter of this spherical ball is equal to the height of the box in which it is placed. The box is a cube and has an edge length of 35 cm. How many cubic centimeters of the box are not occupied by the solid sphere?",
+        "answer": "20425.7025",
+        "image": "image/image141.png",
+        "answer_type": "float",
+        "subject": "solid geometry",
+        "level": "high school"
+    },
+    "142": {
+        "question": "Is this graph a bipartite? Choice: (A) Yes (B) No",
+        "answer": "A",
+        "image": "image/image142.png",
+        "answer_type": "multiple choice",
+        "subject": "graph theory",
+        "level": "undergraduate"
+    },
+    "143": {
+        "question": "Determine for which values of x=a the function is continuous but not differentiable at x=a.",
+        "answer": "1",
+        "image": "image/image143.png",
+        "answer_type": "float",
+        "subject": "analytic geometry",
+        "level": "undergraduate"
+    },
+    "144": {
+        "question": "Find the area of shaded part.",
+        "answer": "0.4142",
+        "image": "image/image144.png",
+        "answer_type": "float",
+        "subject": "analytic geometry",
+        "level": "undergraduate"
+    },
+    "145": {
+        "question": "P is a point inside the square ABCD, and PA = 2, PB = 4, PC = 6. Find the side length of the square. ",
+        "answer": "5.5959",
+        "image": "image/image145.png",
+        "answer_type": "float",
+        "subject": "solid geometry",
+        "level": "high school"
+    },
+    "146": {
+        "question": "Find the missing number.",
+        "answer": "34",
+        "image": "image/image146.png",
+        "answer_type": "float",
+        "subject": "puzzle test",
+        "level": "high school"
+    },
+    "147": {
+        "question": "Is this function differentiable? choice: (A) Yes (B) No",
+        "answer": "B",
+        "image": "image/image147.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "148": {
+        "question": "Is this function uniformly continuous on [-8, 8]? choice: (A) Yes (B) No",
+        "answer": "B",
+        "image": "image/image148.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "149": {
+        "question": "The function value f(1) is ____ f(-1) choice: (A) smaller than (B) larger than (C) equal to",
+        "answer": "B",
+        "image": "image/image149.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "150": {
+        "question": "The function value f(1) is ____ 0 choice: (A) smaller than (B) larger than (C) equal to",
+        "answer": "B",
+        "image": "image/image150.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "151": {
+        "question": "what is the first edge added to the MST when running Kruskal's Algorithm? In the case of a tie, choose the edge which comes first in alphabetical order i.e. if you had to choose between AG and AD, then you would choose AD first. ",
+        "answer": "DF",
+        "image": "image/image151.png",
+        "answer_type": "text",
+        "subject": "graph theory",
+        "level": "undergraduate"
+    },
+    "152": {
+        "question": "what is the first edge added to the MST when running Prim's Algorithm from node A? In the case of a tie, choose the edge which comes first in alphabetical order i.e. if you had to choose between AG and AD, then you would choose AD first. ",
+        "answer": "AD",
+        "image": "image/image152.png",
+        "answer_type": "text",
+        "subject": "graph theory",
+        "level": "undergraduate"
+    },
+    "153": {
+        "question": "The azure area in the figure is composed of 4 identical sectors, which can be combined to form a complete circle. What is the area of the azure part",
+        "answer": "113.0973",
+        "image": "image/image153.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "154": {
+        "question": "The white area in the figure is composed of 4 identical sectors, which can be combined to form a complete circle. What is the area of the azure part",
+        "answer": "1.9314",
+        "image": "image/image154.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "155": {
+        "question": "Find the missing number in the last node.",
+        "answer": "152",
+        "image": "image/image155.png",
+        "answer_type": "float",
+        "subject": "puzzle test",
+        "level": "high school"
+    },
+    "156": {
+        "question": "Find the missing number in the last node.",
+        "answer": "223",
+        "image": "image/image156.png",
+        "answer_type": "float",
+        "subject": "puzzle test",
+        "level": "high school"
+    },
+    "157": {
+        "question": "As shown in the figure, quadrilateral ABCD is a square, with DE parallel to AC, and CE equal to CA. Line EC intersects the extended line of DA at point F. AE = 11, find the length of AF",
+        "answer": "11",
+        "image": "image/image157.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "158": {
+        "question": "What are the coordinates of the vector between two blue points?",
+        "answer": "(2, -4)",
+        "image": "image/image158.png",
+        "answer_type": "text",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "159": {
+        "question": "Find the area of the region bounded by the curves y = x^1/5, y = 1, and x = 5.",
+        "answer": "0.9155",
+        "image": "image/image159.png",
+        "answer_type": "float",
+        "subject": "analytic geometry",
+        "level": "undergraduate"
+    },
+    "160": {
+        "question": "The blue curve is the function transformed from black curve. What transformation is applied to the original function?  choice: (A) shift up (B) shift down (C) shift left (D) shift right ",
+        "answer": "A",
+        "image": "image/image160.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "161": {
+        "question": "On which number is the spinner more likely to land?",
+        "answer": "4",
+        "image": "image/image161.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "162": {
+        "question": "On which color is the spinner more likely to land?",
+        "answer": "White",
+        "image": "image/image162.png",
+        "answer_type": "text",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "163": {
+        "question": "The blue and green curves are f(x) and g(x). What is the monotonicity of f(x) + g(x)?  choice: (A) monotone increasing (B) monotone decreasing (C) undefined ",
+        "answer": "C",
+        "image": "image/image163.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "164": {
+        "question": "The red and green curves are f(x) and g(x). What is the monotonicity of -f(x)?  choice: (A) monotone increasing (B) monotone decreasing (C) undefined ",
+        "answer": "B",
+        "image": "image/image164.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "165": {
+        "question": "The purple and orange curves are f(x) and g(x). What is the monotonicity of 1/f(x)?  choice: (A) monotone increasing (B) monotone decreasing (C) undefined ",
+        "answer": "C",
+        "image": "image/image165.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "166": {
+        "question": "The brown and black curves are f(x) and g(x). What is the monotonicity of f[g(x)]?  choice: (A) monotone increasing (B) monotone decreasing (C) undefined ",
+        "answer": "A",
+        "image": "image/image166.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "167": {
+        "question": "quadrilateral ABCD is a square, with DE parallel to AC, AE=AC, and AE intersects CD at point F. The length of the side of ABCD is 3 amd CE = 1. Find the length of CF. ",
+        "answer": "1",
+        "image": "image/image167.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "168": {
+        "question": "The blue and green curves are f(x) and g(x). Is f(x) + g(x) even or odd?  choice: (A) odd (B) even (C) neither ",
+        "answer": "A",
+        "image": "image/image168.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "169": {
+        "question": "The purple and orange curves are f(x) and g(x). Is f(x)g(x) even or odd?  choice: (A) odd (B) even (C) neither ",
+        "answer": "A",
+        "image": "image/image169.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "170": {
+        "question": "The red and green curves are f(x) and g(x). Is f[g(x)] even or odd?  choice: (A) odd (B) even (C) neither ",
+        "answer": "A",
+        "image": "image/image170.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "171": {
+        "question": "What is the sum of interior angles in this polygon?",
+        "answer": "360",
+        "image": "image/image171.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "172": {
+        "question": "What is the sum of external angles in this polygon?",
+        "answer": "360",
+        "image": "image/image172.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "173": {
+        "question": "Find the \u2220A in this regular polygon.",
+        "answer": "128.5714",
+        "image": "image/image173.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "174": {
+        "question": "In the diagram below, both squares have a equal side length. What is the area of the azure region? ",
+        "answer": "9",
+        "image": "image/image174.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "175": {
+        "question": "The equation of this ellipse is x^2/16.0 + y^2/1.0 = 1. Find the length of A1A2. ",
+        "answer": "8",
+        "image": "image/image175.png",
+        "answer_type": "float",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "176": {
+        "question": "The equation of this ellipse is x^2/4.0 + y^2/1.0 = 1. Find the length of B1B2. ",
+        "answer": "2",
+        "image": "image/image176.png",
+        "answer_type": "float",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "177": {
+        "question": "The equation of this ellipse is x^2/6.25 + y^2/2.25 = 1. Find the eccentricity of this ellipse. ",
+        "answer": "0.8",
+        "image": "image/image177.png",
+        "answer_type": "float",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "178": {
+        "question": "In the diagram, triangle ABC is right-angled at C. Also, points M, N and P are the midpoints of sides BC, AC and AB, respectively. If the area of triangle APN is 1, then what is the area of triangle ABC? ",
+        "answer": "4",
+        "image": "image/image178.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "179": {
+        "question": "Find the missing number in the last node.",
+        "answer": "43",
+        "image": "image/image179.png",
+        "answer_type": "float",
+        "subject": "puzzle test",
+        "level": "high school"
+    },
+    "180": {
+        "question": "Find the missing number in the last node.",
+        "answer": "43",
+        "image": "image/image180.png",
+        "answer_type": "float",
+        "subject": "puzzle test",
+        "level": "high school"
+    },
+    "181": {
+        "question": "The line L1 and L2 are parallel to each other. Is \u2220A the same as \u2220B?  choice: (A) Yes (B) No",
+        "answer": "A",
+        "image": "image/image181.png",
+        "answer_type": "multiple choice",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "182": {
+        "question": "The line L1 and L2 are parallel to each other. Is \u2220A the same as \u2220B?  choice: (A) Yes (B) No",
+        "answer": "A",
+        "image": "image/image182.png",
+        "answer_type": "multiple choice",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "183": {
+        "question": "The line L1 and L2 are parallel to each other. Is \u2220A the same as \u2220B?  choice: (A) Yes (B) No",
+        "answer": "A",
+        "image": "image/image183.png",
+        "answer_type": "multiple choice",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "184": {
+        "question": "The line L1 and L2 are parallel to each other. Is \u2220A the same as \u2220B?  choice: (A) Yes (B) No",
+        "answer": "A",
+        "image": "image/image184.png",
+        "answer_type": "multiple choice",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "185": {
+        "question": "Based on the measurement results shown in the diagram, this blue angle is ( )\u00b0.",
+        "answer": "110",
+        "image": "image/image185.png",
+        "answer_type": "float",
+        "subject": "scientific figure",
+        "level": "elementary school"
+    },
+    "186": {
+        "question": "Based on the measurement results shown in the diagram, this blue angle is ( )\u00b0.",
+        "answer": "80",
+        "image": "image/image186.png",
+        "answer_type": "float",
+        "subject": "scientific figure",
+        "level": "elementary school"
+    },
+    "187": {
+        "question": "A sphere is inscribed in a cone with height 11 and base radius 9. What is the volume of the sphere ? ",
+        "answer": "324.9517",
+        "image": "image/image187.png",
+        "answer_type": "float",
+        "subject": "solid geometry",
+        "level": "high school"
+    },
+    "188": {
+        "question": "Are two planes parallel? choice: (A) Yes (B) No",
+        "answer": "B",
+        "image": "image/image188.png",
+        "answer_type": "multiple choice",
+        "subject": "solid geometry",
+        "level": "high school"
+    },
+    "189": {
+        "question": "What is the area of the azure part?",
+        "answer": "148.1621",
+        "image": "image/image189.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "190": {
+        "question": "In the diagram, there are two semi-circles. D is the diameter of left azure semi-circle, and d is the diameter of the right white semi-circle. Find the area of azure part. ",
+        "answer": "109.9557",
+        "image": "image/image190.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "191": {
+        "question": "Part of the graph of f(x) = x^3 + bx^2 + cx + d is shown. What is b?",
+        "answer": "7",
+        "image": "image/image191.png",
+        "answer_type": "float",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "192": {
+        "question": "Part of the graph of f(x) = x^3 + bx^2 + cx + d is shown. What is c?",
+        "answer": "-1",
+        "image": "image/image192.png",
+        "answer_type": "float",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "193": {
+        "question": "Part of the graph of f(x) = x^3 + bx^2 + cx + d is shown. What is d?",
+        "answer": "9",
+        "image": "image/image193.png",
+        "answer_type": "float",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "194": {
+        "question": "Find the area of the azure part in two square.",
+        "answer": "8.0",
+        "image": "image/image194.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "195": {
+        "question": "Let P be a point on side BC of the square ABCD, PF\u22a5AP, and CF bisects \u2220DCE. PA = 18,find the length of PF",
+        "answer": "18",
+        "image": "image/image195.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "196": {
+        "question": "The sum of the numbers at the two vertices at the ends of each edge is equal to the number written on that edge. What number should he write on the edge marked with the question mark? ",
+        "answer": "10",
+        "image": "image/image196.png",
+        "answer_type": "float",
+        "subject": "puzzle test",
+        "level": "high school"
+    },
+    "197": {
+        "question": "As shown in the figure, points A, O, and B are collinear, and DE is perpendicular to CO. If \u2220BOC = 69\u00b0, what is the measure of \u2220BOE? ",
+        "answer": "21",
+        "image": "image/image197.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "198": {
+        "question": "Is the function differentiable at x = 0? choice: (A) Yes (B) No",
+        "answer": "B",
+        "image": "image/image198.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "199": {
+        "question": "Is the function continuous on x = 0? choice: (A) Yes (B) No",
+        "answer": "B",
+        "image": "image/image199.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "200": {
+        "question": "As shown in the figure, BC is parallel to DE, with BC = 9 and DE = 13. Given AB = 11, find the length of BD.",
+        "answer": "4.8889",
+        "image": "image/image200.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "201": {
+        "question": "what is the trapezoidal approximation of the integral of f(x) from 1 to 3?",
+        "answer": "35.0",
+        "image": "image/image201.png",
+        "answer_type": "float",
+        "subject": "arithmetic",
+        "level": "undergraduate"
+    },
+    "202": {
+        "question": "what is the Simpson's approximation of the integral of f(x) from 1 to 8?",
+        "answer": "777.0",
+        "image": "image/image202.png",
+        "answer_type": "float",
+        "subject": "arithmetic",
+        "level": "undergraduate"
+    },
+    "203": {
+        "question": "Which of the following descriptions is correct for approximating the integral of f(x) from a to b?  choices: (A) trapezoidal sum underapproximation (B) left Riemann sum underapproximation (C) left Riemann sum overapproximation (D) Neither",
+        "answer": "C",
+        "image": "image/image203.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "undergraduate"
+    },
+    "204": {
+        "question": "Which of the following descriptions is correct for approximating the integral of f(x) from a to b?  choices: (A) trapezoidal sum underapproximation and left Riemann sum underapproximation (B) trapezoidal sum underapproximation  and left Riemann sum overapproximation (C) trapezoidal sum overapproximation and left Riemann sum underapproximation (D) trapezoidal sum overapproximation  and left Riemann sum overapproximation",
+        "answer": "A",
+        "image": "image/image204.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "205": {
+        "question": "The two semicircles are in the figure above. What is the total length of the darkened curve?",
+        "answer": "35.9911",
+        "image": "image/image205.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "206": {
+        "question": "What is the measure of \u2220C? Answer the question in degrees.",
+        "answer": "82.8192",
+        "image": "image/image206.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "207": {
+        "question": "What is the measure of \u2220B? Answer the question in degrees.",
+        "answer": "12.2403",
+        "image": "image/image207.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "208": {
+        "question": "Are three lines in figure the same length? choices: (A) Yes (B) No",
+        "answer": "A",
+        "image": "image/image208.png",
+        "answer_type": "multiple choice",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "209": {
+        "question": "Is the distance between the two orange lines as long as the distance between the two purple lines?  choices: (A) Yes (B) No ",
+        "answer": "A",
+        "image": "image/image209.png",
+        "answer_type": "multiple choice",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "210": {
+        "question": "Are the red line and the blue line the same length? choices: (A) Yes (B) No",
+        "answer": "A",
+        "image": "image/image210.png",
+        "answer_type": "multiple choice",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "211": {
+        "question": "The curve BD is parallel to the curve AC, and AB=CD=EF=GH. Are the areas of enclosed graph ABCD and EFGH the same?  choice: (A) Yes (B) No ",
+        "answer": "A",
+        "image": "image/image211.png",
+        "answer_type": "multiple choice",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "212": {
+        "question": "The curve BD is parallel to the curve AC, AB=CD=EF=GH=68, and EG = FH = 340. What is the area of enclosed graph ABCD?",
+        "answer": "23120",
+        "image": "image/image212.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "213": {
+        "question": "Find the number of integer solutions of x^2 + y^2 <= 81",
+        "answer": "253",
+        "image": "image/image213.png",
+        "answer_type": "float",
+        "subject": "algebra",
+        "level": "undergraduate"
+    },
+    "214": {
+        "question": "Four identical azure right triangles form a square. Given that two sides of the azure triangle are 140,20, find the area of the white square.",
+        "answer": "20000",
+        "image": "image/image214.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "215": {
+        "question": "Four identical pink right triangles form a big square. Given that the area of a pink triangle is 14.0, and the area of white square is 200, find the area of the big square.",
+        "answer": "256.0",
+        "image": "image/image215.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "216": {
+        "question": "Does the domain of this function cover R? choice: (A) Yes (B) No",
+        "answer": "B",
+        "image": "image/image216.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "217": {
+        "question": "The joint distribution of S and P is given by the following table. Compute E[P], the expectation of P. ",
+        "answer": "1.98",
+        "image": "image/image217.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "218": {
+        "question": "The joint distribution of S and P is given by the following table. Compute P[S=P]",
+        "answer": "0.38",
+        "image": "image/image218.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "219": {
+        "question": "The joint distribution of S and P is given by the following table. Compute P[S<=P]",
+        "answer": "0.55",
+        "image": "image/image219.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "220": {
+        "question": "Is the following graph a complete graph?  choice: (A) Yes (B) No",
+        "answer": "B",
+        "image": "image/image220.png",
+        "answer_type": "multiple choice",
+        "subject": "graph theory",
+        "level": "undergraduate"
+    },
+    "221": {
+        "question": "Is the following graph a planar graph?  choice: (A) Yes (B) No",
+        "answer": "A",
+        "image": "image/image221.png",
+        "answer_type": "multiple choice",
+        "subject": "graph theory",
+        "level": "undergraduate"
+    },
+    "222": {
+        "question": "What is the maximum number of edges to remove so that the following graph is still connected?",
+        "answer": "2",
+        "image": "image/image222.png",
+        "answer_type": "float",
+        "subject": "graph theory",
+        "level": "undergraduate"
+    },
+    "223": {
+        "question": "How many edges should be added to this graph so that it is complete?",
+        "answer": "2",
+        "image": "image/image223.png",
+        "answer_type": "float",
+        "subject": "graph theory",
+        "level": "undergraduate"
+    },
+    "224": {
+        "question": "Is the following graph a planar graph?  choice: (A) Yes (B) No",
+        "answer": "A",
+        "image": "image/image224.png",
+        "answer_type": "multiple choice",
+        "subject": "graph theory",
+        "level": "undergraduate"
+    },
+    "225": {
+        "question": "What is the maximum number of edges to remove so that the following graph is still connected?",
+        "answer": "0",
+        "image": "image/image225.png",
+        "answer_type": "float",
+        "subject": "graph theory",
+        "level": "undergraduate"
+    },
+    "226": {
+        "question": "Is the following graph containing a Euler circuit?  choice: (A) Yes (B) No",
+        "answer": "B",
+        "image": "image/image226.png",
+        "answer_type": "multiple choice",
+        "subject": "graph theory",
+        "level": "undergraduate"
+    },
+    "227": {
+        "question": "Is the following graph containing a Hamiltonian circuit?  choice: (A) Yes (B) No",
+        "answer": "B",
+        "image": "image/image227.png",
+        "answer_type": "multiple choice",
+        "subject": "graph theory",
+        "level": "undergraduate"
+    },
+    "228": {
+        "question": "Is the following graph containing a Euler circuit?  choice: (A) Yes (B) No",
+        "answer": "B",
+        "image": "image/image228.png",
+        "answer_type": "multiple choice",
+        "subject": "graph theory",
+        "level": "undergraduate"
+    },
+    "229": {
+        "question": "Is the following graph containing a Hamiltonian circuit?  choice: (A) Yes (B) No",
+        "answer": "A",
+        "image": "image/image229.png",
+        "answer_type": "multiple choice",
+        "subject": "graph theory",
+        "level": "undergraduate"
+    },
+    "230": {
+        "question": "Is the following graph containing a Euler circuit?  choice: (A) Yes (B) No",
+        "answer": "B",
+        "image": "image/image230.png",
+        "answer_type": "multiple choice",
+        "subject": "graph theory",
+        "level": "undergraduate"
+    },
+    "231": {
+        "question": "How many components does the following graph have?",
+        "answer": "2",
+        "image": "image/image231.png",
+        "answer_type": "float",
+        "subject": "graph theory",
+        "level": "undergraduate"
+    },
+    "232": {
+        "question": "How many components does the following graph have?",
+        "answer": "2",
+        "image": "image/image232.png",
+        "answer_type": "float",
+        "subject": "graph theory",
+        "level": "undergraduate"
+    },
+    "233": {
+        "question": "Find the chromatic index of the following graph.",
+        "answer": "3",
+        "image": "image/image233.png",
+        "answer_type": "float",
+        "subject": "graph theory",
+        "level": "undergraduate"
+    },
+    "234": {
+        "question": "Find the chromatic index of the following graph.",
+        "answer": "2",
+        "image": "image/image234.png",
+        "answer_type": "float",
+        "subject": "graph theory",
+        "level": "undergraduate"
+    },
+    "235": {
+        "question": "Find the chromatic index of the following graph.",
+        "answer": "3",
+        "image": "image/image235.png",
+        "answer_type": "float",
+        "subject": "graph theory",
+        "level": "undergraduate"
+    },
+    "236": {
+        "question": "Find the chromatic number of the following graph.",
+        "answer": "5",
+        "image": "image/image236.png",
+        "answer_type": "float",
+        "subject": "graph theory",
+        "level": "undergraduate"
+    },
+    "237": {
+        "question": "Find the chromatic number of the following graph.",
+        "answer": "3",
+        "image": "image/image237.png",
+        "answer_type": "float",
+        "subject": "graph theory",
+        "level": "undergraduate"
+    },
+    "238": {
+        "question": "Find the chromatic number of the following graph.",
+        "answer": "2",
+        "image": "image/image238.png",
+        "answer_type": "float",
+        "subject": "graph theory",
+        "level": "undergraduate"
+    },
+    "239": {
+        "question": "The root of the balanced tree is at the center of the image. What is the height of the following tree? ",
+        "answer": "3",
+        "image": "image/image239.png",
+        "answer_type": "float",
+        "subject": "graph theory",
+        "level": "undergraduate"
+    },
+    "240": {
+        "question": "Count the number of faces of the following graph.",
+        "answer": "1",
+        "image": "image/image240.png",
+        "answer_type": "float",
+        "subject": "graph theory",
+        "level": "undergraduate"
+    },
+    "241": {
+        "question": "Which node will be visited first if using pre-order DFS on the following tree graph?",
+        "answer": "G",
+        "image": "image/image241.png",
+        "answer_type": "text",
+        "subject": "graph theory",
+        "level": "undergraduate"
+    },
+    "242": {
+        "question": "Which node will be visited first if using inorder DFS on the following tree graph?",
+        "answer": "B",
+        "image": "image/image242.png",
+        "answer_type": "text",
+        "subject": "graph theory",
+        "level": "undergraduate"
+    },
+    "243": {
+        "question": "Which node will be secondly visited if using post-order DFS on the following tree graph?",
+        "answer": "G",
+        "image": "image/image243.png",
+        "answer_type": "text",
+        "subject": "graph theory",
+        "level": "undergraduate"
+    },
+    "244": {
+        "question": "If we want to add a node with value 16 to this binary tree, under which node should it be added?  choice: (A) 8 (B) 34 (C) 49 (D) 73 ",
+        "answer": "B",
+        "image": "image/image244.png",
+        "answer_type": "multiple choice",
+        "subject": "graph theory",
+        "level": "undergraduate"
+    },
+    "245": {
+        "question": "Which data structure is the following graph shown?  (A) heap (B) stack (C) binary tree (D) planted tree ",
+        "answer": "C",
+        "image": "image/image245.png",
+        "answer_type": "multiple choice",
+        "subject": "graph theory",
+        "level": "undergraduate"
+    },
+    "246": {
+        "question": "Insert 6 keys 36, 25, 20, 57, 23, 78 into an initially empty binary search tree. Suppose that the structure of the resulting tree is given in the figure. What is the possible value of the root? ",
+        "answer": "36",
+        "image": "image/image246.png",
+        "answer_type": "float",
+        "subject": "graph theory",
+        "level": "undergraduate"
+    },
+    "247": {
+        "question": "How many nodes are in this empty graph?",
+        "answer": "3",
+        "image": "image/image247.png",
+        "answer_type": "float",
+        "subject": "graph theory",
+        "level": "undergraduate"
+    },
+    "248": {
+        "question": "How many pink nodes are in this empty graph?",
+        "answer": "17",
+        "image": "image/image248.png",
+        "answer_type": "float",
+        "subject": "graph theory",
+        "level": "undergraduate"
+    },
+    "249": {
+        "question": "Find the difference between the number of blue nodes and red nodes.",
+        "answer": "25",
+        "image": "image/image249.png",
+        "answer_type": "float",
+        "subject": "graph theory",
+        "level": "undergraduate"
+    },
+    "250": {
+        "question": "What color has the largest number of nodes?  choice: (A) blue (B) pink (C) green (D) orange",
+        "answer": "D",
+        "image": "image/image250.png",
+        "answer_type": "multiple choice",
+        "subject": "graph theory",
+        "level": "undergraduate"
+    },
+    "251": {
+        "question": "Is the following directed graph strongly connected?  choice: (A) Yes (B) No",
+        "answer": "B",
+        "image": "image/image251.png",
+        "answer_type": "multiple choice",
+        "subject": "graph theory",
+        "level": "undergraduate"
+    },
+    "252": {
+        "question": "Is the left graph isomorphic with the right graph?  choice: (A) Yes (B) No",
+        "answer": "A",
+        "image": "image/image252.png",
+        "answer_type": "multiple choice",
+        "subject": "graph theory",
+        "level": "undergraduate"
+    },
+    "253": {
+        "question": "Is the left graph isomorphic with the right graph?  choice: (A) Yes (B) No",
+        "answer": "B",
+        "image": "image/image253.png",
+        "answer_type": "multiple choice",
+        "subject": "graph theory",
+        "level": "undergraduate"
+    },
+    "254": {
+        "question": "Is the left graph isomorphic with the right graph?  choice: (A) Yes (B) No",
+        "answer": "B",
+        "image": "image/image254.png",
+        "answer_type": "multiple choice",
+        "subject": "graph theory",
+        "level": "undergraduate"
+    },
+    "255": {
+        "question": "The tree shown in image reserves an expression. Calculate this expression and output the result.",
+        "answer": "4100",
+        "image": "image/image255.png",
+        "answer_type": "float",
+        "subject": "graph theory",
+        "level": "undergraduate"
+    },
+    "256": {
+        "question": "Find the longest path length in the following directed acyclic graph.",
+        "answer": "234",
+        "image": "image/image256.png",
+        "answer_type": "float",
+        "subject": "graph theory",
+        "level": "undergraduate"
+    },
+    "257": {
+        "question": "Find the shortest path length in the following directed acyclic graph.",
+        "answer": "120",
+        "image": "image/image257.png",
+        "answer_type": "float",
+        "subject": "graph theory",
+        "level": "undergraduate"
+    },
+    "258": {
+        "question": "Give the Pr\u00fcfer code of the following graph. Please answer in the format like '[1, 2, 3, 4, 5]'",
+        "answer": "[4, 5, 5, 3, 5]",
+        "image": "image/image258.png",
+        "answer_type": "text",
+        "subject": "graph theory",
+        "level": "undergraduate"
+    },
+    "259": {
+        "question": "The tree shown in image reserves an expression. Calculate this expression and output the result.",
+        "answer": "191464",
+        "image": "image/image259.png",
+        "answer_type": "float",
+        "subject": "graph theory",
+        "level": "undergraduate"
+    },
+    "260": {
+        "question": "Is the following directed graph a tournament?  choice: (A) Yes (B) No",
+        "answer": "B",
+        "image": "image/image260.png",
+        "answer_type": "multiple choice",
+        "subject": "graph theory",
+        "level": "undergraduate"
+    },
+    "261": {
+        "question": "An object is placed near a plane mirror, as shown above. Which of the labeled points is the position of the image? choice: (A) point A (B) point B (C) point C",
+        "answer": "B",
+        "image": "image/image261.png",
+        "answer_type": "multiple choice",
+        "subject": "scientific figure",
+        "level": "high school"
+    },
+    "262": {
+        "question": "An object is placed near a plane mirror, as shown above. Which of the labeled points is the position of the image? choice: (A) point A (B) point B (C) point C",
+        "answer": "B",
+        "image": "image/image262.png",
+        "answer_type": "multiple choice",
+        "subject": "scientific figure",
+        "level": "high school"
+    },
+    "263": {
+        "question": "An inverse expression is placed near a mirror. The mirror shows its original appearance, but due to the ink dot on the mirror, part of the formula is obscured. Find the value of '?' in this expression. ",
+        "answer": "50",
+        "image": "image/image263.png",
+        "answer_type": "float",
+        "subject": "scientific figure",
+        "level": "high school"
+    },
+    "264": {
+        "question": "An object is located a distance from a thin converging lens of focal length f as shown in the diagram below. The distance of the image v from the lens will be ____.  choice: (A) f<v<2f (B) v=2f (C) v>2f (D) 0 (No image) ",
+        "answer": "B",
+        "image": "image/image264.png",
+        "answer_type": "multiple choice",
+        "subject": "scientific figure",
+        "level": "high school"
+    },
+    "265": {
+        "question": "An object is located a distance 195.0 from a thin converging lens of focal length 66 as shown in the diagram below. Find the distance of the image from the lens. ",
+        "answer": "99.7674",
+        "image": "image/image265.png",
+        "answer_type": "float",
+        "subject": "scientific figure",
+        "level": "high school"
+    },
+    "266": {
+        "question": "The velocity vs. time graph for the motion of a car on a straight track is shown in the diagram. The thick line represents the velocity. At which time the car change the direction to drive?",
+        "answer": "6",
+        "image": "image/image266.png",
+        "answer_type": "float",
+        "subject": "scientific figure",
+        "level": "high school"
+    },
+    "267": {
+        "question": "The velocity vs. time graph for the motion of a car on a straight track is shown in the diagram. The thick line represents the velocity. Assume that the car starts at the origin x = 0 and the positive velocity represents moving forward. The position of car at t=10s is ____.  choice: (A) in front of the start  (B) behind the start (C) at the start",
+        "answer": "A",
+        "image": "image/image267.png",
+        "answer_type": "multiple choice",
+        "subject": "scientific figure",
+        "level": "high school"
+    },
+    "268": {
+        "question": "The motion of a car in a straight line is shown in the graph below. After 10 seconds, how far is the car from the starting point? ",
+        "answer": "11.0",
+        "image": "image/image268.png",
+        "answer_type": "float",
+        "subject": "scientific figure",
+        "level": "high school"
+    },
+    "269": {
+        "question": "Starting from rest at time t = 0, a car moves in a straight line with an acceleration given by the accompanying graph. What is the speed of the car at t = 10s ? ",
+        "answer": "36.0",
+        "image": "image/image269.png",
+        "answer_type": "float",
+        "subject": "scientific figure",
+        "level": "high school"
+    },
+    "270": {
+        "question": "A block of mass 4 kg, initially at rest, is pulled along a frictionless, horizontal surface with a force shown as a function of time t by the graph above. What is the acceleration of the block at t = 1s ? ",
+        "answer": "0.75",
+        "image": "image/image270.png",
+        "answer_type": "float",
+        "subject": "scientific figure",
+        "level": "high school"
+    },
+    "271": {
+        "question": "The 2.0 kg box shown in the figure to the right is sliding to the right along the floor. A horizontal force of 18.4 N is being applied to the right. The coefficient of kinetic friction between the box and the floor is 0.87. The box is moving with:____.  choice: (A) acceleration to the left (B) acceleration to the right (C) constant velocity ",
+        "answer": "B",
+        "image": "image/image271.png",
+        "answer_type": "multiple choice",
+        "subject": "scientific figure",
+        "level": "high school"
+    },
+    "272": {
+        "question": "What is the x-component of this vector?",
+        "answer": "1",
+        "image": "image/image272.png",
+        "answer_type": "float",
+        "subject": "scientific figure",
+        "level": "high school"
+    },
+    "273": {
+        "question": "What is the y-component of this vector?",
+        "answer": "-4",
+        "image": "image/image273.png",
+        "answer_type": "float",
+        "subject": "scientific figure",
+        "level": "high school"
+    },
+    "274": {
+        "question": "The graph shows smoothed force-versus-time data for a collision. Find the impulse delivered by the force. ",
+        "answer": "200",
+        "image": "image/image274.png",
+        "answer_type": "float",
+        "subject": "scientific figure",
+        "level": "high school"
+    },
+    "275": {
+        "question": "Ball 1 and ball 2 follow the paths shown, where the darkblue path is Ball 1 and the green path is Ball 2. Which ball is in the air for a longer time? Assume that you can ignore air resistance for this problem.  choice: (A) Ball 1 (B) Ball 2 (C) The amount time of balls in air is same ",
+        "answer": "A",
+        "image": "image/image275.png",
+        "answer_type": "multiple choice",
+        "subject": "scientific figure",
+        "level": "high school"
+    },
+    "276": {
+        "question": "refer to the following diagram that shows part of a closed electrical circuit. What is the electrical resistance of the part of the circuit shown between point X and point Y? ",
+        "answer": "20.7458",
+        "image": "image/image276.png",
+        "answer_type": "float",
+        "subject": "scientific figure",
+        "level": "high school"
+    },
+    "277": {
+        "question": "refer to the following diagram that shows a closed electrical circuit. What is the electric current of the circuit? ",
+        "answer": "0.2662",
+        "image": "image/image277.png",
+        "answer_type": "float",
+        "subject": "scientific figure",
+        "level": "high school"
+    },
+    "278": {
+        "question": "Find the potential difference Uab between points a and b.",
+        "answer": "14.266",
+        "image": "image/image278.png",
+        "answer_type": "float",
+        "subject": "scientific figure",
+        "level": "undergraduate"
+    },
+    "279": {
+        "question": "Two planets travel in an elliptical orbit about the sun as shown. Which planet have greater orbital speed?  choice: (A) Blue planet (B) Orange planet (C) Both two planet have the same speed ",
+        "answer": "A",
+        "image": "image/image279.png",
+        "answer_type": "multiple choice",
+        "subject": "scientific figure",
+        "level": "high school"
+    },
+    "280": {
+        "question": "Two planets travel in an elliptical orbit about the sun as shown. Which planet have greater acceleration?  choice: (A) Brown planet (B) Pink planet (C) Both two planet have the same acceleration ",
+        "answer": "B",
+        "image": "image/image280.png",
+        "answer_type": "multiple choice",
+        "subject": "scientific figure",
+        "level": "high school"
+    },
+    "281": {
+        "question": "In the figure below, the area of square ABCD is equal to the sum of the area of triangles ABE and DCE. If AB = 52, then CE = ___ ",
+        "answer": "26.0",
+        "image": "image/image281.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "282": {
+        "question": "Fill in the white spaces to make the equations work.  choice: (A) 1, 9, 0, and 31  (B) 9, 0, 0, and 31 (C) 32, -1, 9, 1 ",
+        "answer": "A",
+        "image": "image/image282.png",
+        "answer_type": "multiple choice",
+        "subject": "puzzle test",
+        "level": "high school"
+    },
+    "283": {
+        "question": "Fill in the white space to make it like a 5x5 sudoku.",
+        "answer": "2",
+        "image": "image/image283.png",
+        "answer_type": "float",
+        "subject": "puzzle test",
+        "level": "elementary school"
+    },
+    "284": {
+        "question": "Find the missing value.",
+        "answer": "52",
+        "image": "image/image284.png",
+        "answer_type": "float",
+        "subject": "puzzle test",
+        "level": "elementary school"
+    },
+    "285": {
+        "question": "Find the missing number.",
+        "answer": "729",
+        "image": "image/image285.png",
+        "answer_type": "float",
+        "subject": "puzzle test",
+        "level": "elementary school"
+    },
+    "286": {
+        "question": "Find the missing numbers so that the sum of numbers on the each side equal to the number in the center. The answer should be in the order of the missing number on the left side, the missing number on the bottom side, and the missing number on the right side, following the format like '1, 2, 3' ",
+        "answer": "95, 51, 115",
+        "image": "image/image286.png",
+        "answer_type": "text",
+        "subject": "puzzle test",
+        "level": "elementary school"
+    },
+    "287": {
+        "question": "What type of transformation of the left letter was applied to become the right letter? choice: (A) reduction (B) rotation (C) enlargement",
+        "answer": "C",
+        "image": "image/image287.png",
+        "answer_type": "multiple choice",
+        "subject": "plane geometry",
+        "level": "elementary school"
+    },
+    "288": {
+        "question": "The diagram shows weights of students. How many students are at least 40 kilograms weight but less than 70 kilograms weight? ",
+        "answer": "6",
+        "image": "image/image288.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "289": {
+        "question": "The diagram shows Exam score of students. What is the average score of this exam?",
+        "answer": "54.8",
+        "image": "image/image289.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "290": {
+        "question": "The diagram shows height of buildings in town. How many buildings are exactly 87 meters?",
+        "answer": "0",
+        "image": "image/image290.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "291": {
+        "question": "The diagram shows Exam score of students. What is the student No. of the student who get the highest score? ",
+        "answer": "19",
+        "image": "image/image291.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "292": {
+        "question": "The diagram shows weights of students. How many students are at least 40 kilograms weight but less than 70 kilograms weight? ",
+        "answer": "7",
+        "image": "image/image292.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "293": {
+        "question": "The diagram shows height of buildings in town. How many buildings are exactly 40 meters?",
+        "answer": "1",
+        "image": "image/image293.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "294": {
+        "question": "The ternary plot shows the three-sector model of an unknown country. What is the percentage of primary sector in the economy of this country . ",
+        "answer": "0.1",
+        "image": "image/image294.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "295": {
+        "question": "The ternary plot shows the three-sector model of an unknown country. Which sector contributes most to the economy of this country?  choice: (A) Primary Sector (B) Secondary Sector (C) Tertiary Sector ",
+        "answer": "A",
+        "image": "image/image295.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "296": {
+        "question": "According to the slope field, dx/dy = a * x^0, find the value of 'a'.",
+        "answer": "-0.5",
+        "image": "image/image296.png",
+        "answer_type": "float",
+        "subject": "analytic geometry",
+        "level": "undergraduate"
+    },
+    "297": {
+        "question": "According to the slope field, dx/dy = a * sin(x), find the value of 'a'.",
+        "answer": "2",
+        "image": "image/image297.png",
+        "answer_type": "float",
+        "subject": "analytic geometry",
+        "level": "undergraduate"
+    },
+    "298": {
+        "question": "Which differential equation generates the slope field? (A) -1x + -1y (B) -1x - 1y (C) -1y - 1x (D) -1x (E) -1x - 1y ",
+        "answer": "E",
+        "image": "image/image298.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "undergraduate"
+    },
+    "299": {
+        "question": "Which differential equation generates the slope field? choice: (A) x/y (B) (x + -3)/(y + 5) (C) (x - 3)/(y + 5) (D) (x - 3)/(y - 5) (E) (x + -3)/(y - 5) ",
+        "answer": "C",
+        "image": "image/image299.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "undergraduate"
+    },
+    "300": {
+        "question": "What is the general solution to the differential equation that generated the slope field?  choice: (A) x = -2cos(y) + C (B) y = 2cos(x) + C (C) y = -2cos(x) + C (D) y = -2sin(x) + C ",
+        "answer": "D",
+        "image": "image/image300.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "undergraduate"
+    },
+    "301": {
+        "question": "In the diagram drawn on the square grid, find the ratio of the unshaded area to the shaded area. choice: (A) 1/4 (B) 2/5 (C) 1/3 (D) 1/5 ",
+        "answer": "A",
+        "image": "image/image301.png",
+        "answer_type": "multiple choice",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "302": {
+        "question": "Which of the shapes cannot be split into two triangles using a single straight line?  choice: (A) left shape (B) right shape ",
+        "answer": "A",
+        "image": "image/image302.png",
+        "answer_type": "multiple choice",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "303": {
+        "question": "Find the area of the triangle enclosed by three black points.",
+        "answer": "0.0",
+        "image": "image/image303.png",
+        "answer_type": "float",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "304": {
+        "question": "How many circles is the red point inside?",
+        "answer": "5",
+        "image": "image/image304.png",
+        "answer_type": "float",
+        "subject": "plane geometry",
+        "level": "high school"
+    },
+    "305": {
+        "question": "The store has 4 combinations of candies. Each candy type has the same price. Find the price of the fourth combination. ",
+        "answer": "48",
+        "image": "image/image305.png",
+        "answer_type": "float",
+        "subject": "algebra",
+        "level": "high school"
+    },
+    "306": {
+        "question": "a, b are two arbitrary number. According to the calculation of first and second rows, find the value of third row of calculations. ",
+        "answer": "55.5",
+        "image": "image/image306.png",
+        "answer_type": "float",
+        "subject": "arithmetic",
+        "level": "elementary school"
+    },
+    "307": {
+        "question": "The diagram below is a model of two solutions. Each ball represents one particle of solute. Which solution has a higher concentration of particles?  choice: (A) Solution A (B) Solution B (C) Their concentrations are the same ",
+        "answer": "B",
+        "image": "image/image307.png",
+        "answer_type": "multiple choice",
+        "subject": "scientific figure",
+        "level": "high school"
+    },
+    "308": {
+        "question": "The diagram below is a model of two solutions. Each ball represents one mole particle of solute.Which solution has a higher mass?  choice: (A) Solution A (B) Solution B (C) Their masses are the same ",
+        "answer": "B",
+        "image": "image/image308.png",
+        "answer_type": "multiple choice",
+        "subject": "scientific figure",
+        "level": "high school"
+    },
+    "309": {
+        "question": "The diagram below is a model of three solutions. Each ball represents 0.01 mole KMnO4. If researcher pour left two solutions to rightmost beaker. Find the concentration of the solution in the rightmost beaker.",
+        "answer": "0.1811",
+        "image": "image/image309.png",
+        "answer_type": "float",
+        "subject": "scientific figure",
+        "level": "high school"
+    },
+    "310": {
+        "question": "Fill in the blank of the second equation.",
+        "answer": "5.0258",
+        "image": "image/image310.png",
+        "answer_type": "float",
+        "subject": "algebra",
+        "level": "elementary school"
+    },
+    "311": {
+        "question": "A ticket will be issued when the vehicle speed exceeds 70 mph. According to the instrument panel below, will this vehicle get the ticket?  choice: (A) Yes (B) No ",
+        "answer": "A",
+        "image": "image/image311.png",
+        "answer_type": "multiple choice",
+        "subject": "scientific figure",
+        "level": "elementary school"
+    },
+    "312": {
+        "question": "The sum of numbers on three consecutive underlines is always 10. Find the number on the red underlines. ",
+        "answer": "8",
+        "image": "image/image312.png",
+        "answer_type": "float",
+        "subject": "puzzle test",
+        "level": "elementary school"
+    },
+    "313": {
+        "question": "The statements on the right give clues to the identity of a three-digit code. What is the code?",
+        "answer": "218",
+        "image": "image/image313.png",
+        "answer_type": "text",
+        "subject": "puzzle test",
+        "level": "elementary school"
+    },
+    "314": {
+        "question": "What is the color of the normal distribution line with largest standard deviation? choice: (A) red (B) blue (C) green (D) orange",
+        "answer": "C",
+        "image": "image/image314.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "315": {
+        "question": "Write the numbers 1, 2, 3, 4, 5 in the square 5x5 in such a way that every row and every column has each number. How many kinds of number can be put to replace 'x'? ",
+        "answer": "3",
+        "image": "image/image315.png",
+        "answer_type": "float",
+        "subject": "puzzle test",
+        "level": "elementary school"
+    },
+    "316": {
+        "question": "According to the boarding pass, how long is the flight time of this airplane? Answer the question using the total number of minutes. ",
+        "answer": "260",
+        "image": "image/image316.png",
+        "answer_type": "float",
+        "subject": "arithmetic",
+        "level": "elementary school"
+    },
+    "317": {
+        "question": "Tom writes down two five-digit number. He places different shapes on different digits. He places the same shape on the same digits. Find the value of first five-digit number. ",
+        "answer": "34484",
+        "image": "image/image317.png",
+        "answer_type": "float",
+        "subject": "arithmetic",
+        "level": "elementary school"
+    },
+    "318": {
+        "question": "Find the distance between orange and blue point.",
+        "answer": "8.2462",
+        "image": "image/image318.png",
+        "answer_type": "float",
+        "subject": "solid geometry",
+        "level": "high school"
+    },
+    "319": {
+        "question": "In the grid, how many dark blue squares have to be coloured white, so that in each row and each column there is exactly one dark blue square? If it is impossible that in each row and each column there is exactly one dark blue square, answer 0.",
+        "answer": "5",
+        "image": "image/image319.png",
+        "answer_type": "float",
+        "subject": "arithmetic",
+        "level": "elementary school"
+    },
+    "320": {
+        "question": "Which line is longer, the pink or the red line?  choice: (A) pink (B) red (C) Their lengths are the same ",
+        "answer": "A",
+        "image": "image/image320.png",
+        "answer_type": "multiple choice",
+        "subject": "solid geometry",
+        "level": "high school"
+    },
+    "321": {
+        "question": "According to the algorithm chart, if we input 1, what is the output?",
+        "answer": "23",
+        "image": "image/image321.png",
+        "answer_type": "float",
+        "subject": "scientific figure",
+        "level": "undergraduate"
+    },
+    "322": {
+        "question": "According to the following algorithm flowchart, if we input a=2, b=15, what is the output? ",
+        "answer": "17",
+        "image": "image/image322.png",
+        "answer_type": "float",
+        "subject": "scientific figure",
+        "level": "undergraduate"
+    },
+    "323": {
+        "question": "Two containers of the same gas (ideal) have these masses and temperatures Which box has atoms with the largest average thermal energy?  choice:(A) A (B) B (C) Their average thermal energy is the same ",
+        "answer": "A",
+        "image": "image/image323.png",
+        "answer_type": "multiple choice",
+        "subject": "scientific figure",
+        "level": "high school"
+    },
+    "324": {
+        "question": "Two containers of the same gas (ideal) have these masses and temperatures Which container of gas has the largest thermal energy?  choice:(A) A (B) B (C) Their average thermal energy is the same ",
+        "answer": "B",
+        "image": "image/image324.png",
+        "answer_type": "multiple choice",
+        "subject": "scientific figure",
+        "level": "high school"
+    },
+    "325": {
+        "question": "Three equally spaced identical long straight wires carry different currents. In which direction will the middle wire try to move when the currents are switched on?  choice: (A) to the left (B) to the right (C) stay the same ",
+        "answer": "B",
+        "image": "image/image325.png",
+        "answer_type": "multiple choice",
+        "subject": "scientific figure",
+        "level": "high school"
+    },
+    "326": {
+        "question": "To avoid emergency situation, the university decides to cut down the highest eucalyptus, which is 85m high. They cut the tree at 22 metres of the trunk. How far from the tree will be safe when the eucalyptus falls? ",
+        "answer": "59.0339",
+        "image": "image/image326.png",
+        "answer_type": "float",
+        "subject": "scientific figure",
+        "level": "high school"
+    },
+    "327": {
+        "question": "Steven wants to write each of the digits 2, 0, 6 and 3 into the boxes of this addition: He wants to obtain the biggest result possible. Which digit does he have to use for the tenth digit number?",
+        "answer": "3",
+        "image": "image/image327.png",
+        "answer_type": "float",
+        "subject": "arithmetic",
+        "level": "elementary school"
+    },
+    "328": {
+        "question": "The result of shooters in shooting tournament is shown in the image. What is the score?",
+        "answer": "21",
+        "image": "image/image328.png",
+        "answer_type": "float",
+        "subject": "arithmetic",
+        "level": "elementary school"
+    },
+    "329": {
+        "question": "A uniform meterstick is balanced at its midpoint with several forces applied as shown below. If the stick is in equilibrium, what is the magnitude of the force X in N? ",
+        "answer": "16",
+        "image": "image/image329.png",
+        "answer_type": "float",
+        "subject": "scientific figure",
+        "level": "high school"
+    },
+    "330": {
+        "question": "A uniform meterstick is balanced at its midpoint with several forces applied as shown below. If the stick is in equilibrium, what is the magnitude of the force X in N? ",
+        "answer": "44.4348",
+        "image": "image/image330.png",
+        "answer_type": "float",
+        "subject": "scientific figure",
+        "level": "high school"
+    },
+    "331": {
+        "question": "The graph shows the force on an object of mass M as a function of time. For the time interval 0 to 10 s, what is the total change in the momentum of the object?",
+        "answer": "28",
+        "image": "image/image331.png",
+        "answer_type": "float",
+        "subject": "scientific figure",
+        "level": "high school"
+    },
+    "332": {
+        "question": "The diagrams below show two pure samples of gas in identical closed, rigid containers. Each colored ball represents one gas particle. Both samples have the same number of particles. Compare the average kinetic energies of the particles in each sample. Which sample has the higher temperature?  choice: (A) sample A (B) sample B (C) Their temperature is the same",
+        "answer": "B",
+        "image": "image/image332.png",
+        "answer_type": "multiple choice",
+        "subject": "scientific figure",
+        "level": "high school"
+    },
+    "333": {
+        "question": "The cell in the following circuit has an emf of 2.2 V. The digital voltmeter reads 0.8 V. What is the voltage at L2? ",
+        "answer": "1.4",
+        "image": "image/image333.png",
+        "answer_type": "float",
+        "subject": "scientific figure",
+        "level": "high school"
+    },
+    "334": {
+        "question": "The cell in the following circuit has an emf of 2.5 V. The digital voltmeter reads 1.3 V. The resistance of L1 is 1 omega. What is the resistance of L2? ",
+        "answer": "0.9231",
+        "image": "image/image334.png",
+        "answer_type": "float",
+        "subject": "scientific figure",
+        "level": "high school"
+    },
+    "335": {
+        "question": "Which point represents the conjugate of the complex number z?  choice: (A) red point (B) green point (C) blue point ",
+        "answer": "B",
+        "image": "image/image335.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "undergraduate"
+    },
+    "336": {
+        "question": "Find the value of z * (z\u2217).",
+        "answer": "25",
+        "image": "image/image336.png",
+        "answer_type": "float",
+        "subject": "analytic geometry",
+        "level": "undergraduate"
+    },
+    "337": {
+        "question": "Find the value of z1 * z2.",
+        "answer": "1",
+        "image": "image/image337.png",
+        "answer_type": "float",
+        "subject": "analytic geometry",
+        "level": "undergraduate"
+    },
+    "338": {
+        "question": "Find the value of \u2220z1oz2. Give the answer in degrees.",
+        "answer": "90",
+        "image": "image/image338.png",
+        "answer_type": "float",
+        "subject": "analytic geometry",
+        "level": "undergraduate"
+    },
+    "339": {
+        "question": "Is \u2220z1oz2 equal to \u2220z3oz4?  choice: (A) Yes (B) No",
+        "answer": "A",
+        "image": "image/image339.png",
+        "answer_type": "multiple choice",
+        "subject": "analytic geometry",
+        "level": "undergraduate"
+    },
+    "340": {
+        "question": "Determine the missing part.  Choice: (A) \u2197  (B) \u2196  (C) \u2198  (D) \u2199 ",
+        "answer": "B",
+        "image": "image/image340.png",
+        "answer_type": "multiple choice",
+        "subject": "puzzle test",
+        "level": "elementary school"
+    },
+    "341": {
+        "question": "What is the date today? Answer in the format like mm/dd/yyyy.",
+        "answer": "09/05/2013",
+        "image": "image/image341.png",
+        "answer_type": "text",
+        "subject": "arithmetic",
+        "level": "elementary school"
+    },
+    "342": {
+        "question": "The calendar is partially covered with ink. What day is it today? Answer in word with the first letter capitalized. ",
+        "answer": "Tuesday",
+        "image": "image/image342.png",
+        "answer_type": "text",
+        "subject": "arithmetic",
+        "level": "undergraduate"
+    },
+    "343": {
+        "question": "Mike shot two clock pictures. The left one was shotted before the midday. The right one was shotted after the midday. How many minutes passed between two shots?",
+        "answer": "480",
+        "image": "image/image343.png",
+        "answer_type": "float",
+        "subject": "arithmetic",
+        "level": "elementary school"
+    },
+    "344": {
+        "question": "If the wolf population were to decrease, what would happen to the sheep population?  choice: (A) increase (B) decrease ",
+        "answer": "A",
+        "image": "image/image344.png",
+        "answer_type": "multiple choice",
+        "subject": "scientific figure",
+        "level": "high school"
+    },
+    "345": {
+        "question": "What is the global maximum of this function?",
+        "answer": "6",
+        "image": "image/image345.png",
+        "answer_type": "float",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "346": {
+        "question": "What is the global minimum of this function?",
+        "answer": "1",
+        "image": "image/image346.png",
+        "answer_type": "float",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "347": {
+        "question": "how many odd functions are in the graph?",
+        "answer": "3",
+        "image": "image/image347.png",
+        "answer_type": "float",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "348": {
+        "question": "how many even functions are in the graph?",
+        "answer": "1",
+        "image": "image/image348.png",
+        "answer_type": "float",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "349": {
+        "question": "F1 = 8N, S1 = 1m^2, and S2 = 12m^2, find the value of force F2.",
+        "answer": "96",
+        "image": "image/image349.png",
+        "answer_type": "float",
+        "subject": "scientific figure",
+        "level": "high school"
+    },
+    "350": {
+        "question": "Find the missing number in the last node.",
+        "answer": "146",
+        "image": "image/image350.png",
+        "answer_type": "float",
+        "subject": "puzzle test",
+        "level": "elementary school"
+    },
+    "351": {
+        "question": "Which function has the highest order or growth? choice: (A) f1 (B) f2 (C) f3 (D) f4",
+        "answer": "B",
+        "image": "image/image351.png",
+        "answer_type": "multiple choice",
+        "subject": "algebra",
+        "level": "undergraduate"
+    },
+    "352": {
+        "question": "Which function has the lowest order or growth? choice: (A) f1 (B) f2 (C) f3 (D) f4",
+        "answer": "B",
+        "image": "image/image352.png",
+        "answer_type": "multiple choice",
+        "subject": "algebra",
+        "level": "undergraduate"
+    },
+    "353": {
+        "question": "A sample of ideal gas is taken from an initial state to a final state following a curve on a pV diagram at right. What is the work that the gas does? ",
+        "answer": "2500",
+        "image": "image/image353.png",
+        "answer_type": "float",
+        "subject": "scientific figure",
+        "level": "high school"
+    },
+    "354": {
+        "question": "A sample of ideal gas is taken from an initial state to a final state following a curve on a pV diagram at right. What is the work that the gas does? ",
+        "answer": "0",
+        "image": "image/image354.png",
+        "answer_type": "float",
+        "subject": "scientific figure",
+        "level": "high school"
+    },
+    "355": {
+        "question": "Each of the digits 6, 8, 7 and 0 will be placed in a square. Then there will be two numbers, which will be added together. What is the biggest number that they could make? ",
+        "answer": "156",
+        "image": "image/image355.png",
+        "answer_type": "float",
+        "subject": "arithmetic",
+        "level": "elementary school"
+    },
+    "356": {
+        "question": "Find the missing value.",
+        "answer": "186",
+        "image": "image/image356.png",
+        "answer_type": "float",
+        "subject": "arithmetic",
+        "level": "elementary school"
+    },
+    "357": {
+        "question": "Find the missing number.",
+        "answer": "1248",
+        "image": "image/image357.png",
+        "answer_type": "float",
+        "subject": "arithmetic",
+        "level": "elementary school"
+    },
+    "358": {
+        "question": "Input binary number B = 000001, find the corresponding decimal value by the algorithm shown in image. ",
+        "answer": "1",
+        "image": "image/image358.png",
+        "answer_type": "float",
+        "subject": "scientific figure",
+        "level": "undergraduate"
+    },
+    "359": {
+        "question": "The height h of the cylinder is 42. Find the volume of the cylinder.",
+        "answer": "329867.2286",
+        "image": "image/image359.png",
+        "answer_type": "float",
+        "subject": "solid geometry",
+        "level": "high school"
+    },
+    "360": {
+        "question": "The height h of the cylinder is 39. Find the surface area of the cylinder.",
+        "answer": "2023.1857",
+        "image": "image/image360.png",
+        "answer_type": "float",
+        "subject": "solid geometry",
+        "level": "high school"
+    },
+    "361": {
+        "question": "If the black point is reflected in x-axis, what are the coordinates of its image? Please answer in the form (_, _) ",
+        "answer": "(5.000, 2.000)",
+        "image": "image/image361.png",
+        "answer_type": "text",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "362": {
+        "question": "If the red point is reflected in y-axis, what are the coordinates of its image? Please answer in the form (_, _) ",
+        "answer": "(1.000, 4.000)",
+        "image": "image/image362.png",
+        "answer_type": "text",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "363": {
+        "question": "If the blue point is reflected about the origin, what are the coordinates of its image? Please answer in the form (_, _) ",
+        "answer": "(-2.000, 6.000)",
+        "image": "image/image363.png",
+        "answer_type": "text",
+        "subject": "analytic geometry",
+        "level": "high school"
+    },
+    "364": {
+        "question": "Which type of function best describes the correlation? (A) Linear (B) Quadratic (C) Cubic",
+        "answer": "C",
+        "image": "image/image364.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "365": {
+        "question": "Which type of function best describes the correlation? (A) Exponential (B) Logarithmic (C) Sine",
+        "answer": "C",
+        "image": "image/image365.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "366": {
+        "question": "Which group has the largest Y value?\nA. Group 1\nB. Group 2\nC. Group 3",
+        "answer": "A",
+        "image": "image/image366.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "367": {
+        "question": "How many points are inside the circle?",
+        "answer": "3",
+        "image": "image/image367.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "368": {
+        "question": "How many red points are inside the blue circle?",
+        "answer": "2",
+        "image": "image/image368.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "369": {
+        "question": "How many points are inside the rectangle?",
+        "answer": "1",
+        "image": "image/image369.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "370": {
+        "question": "How many points are inside the triangle?",
+        "answer": "1",
+        "image": "image/image370.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "371": {
+        "question": "Please count how many points are outside the circle?",
+        "answer": "5",
+        "image": "image/image371.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "372": {
+        "question": "Please count how many red points are outside the blue circle?",
+        "answer": "9",
+        "image": "image/image372.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "373": {
+        "question": "How many points are outside the ellipse?",
+        "answer": "9",
+        "image": "image/image373.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "374": {
+        "question": "How many points are outside the rectangle?",
+        "answer": "7",
+        "image": "image/image374.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "375": {
+        "question": "How many points are outside the triangle?",
+        "answer": "10",
+        "image": "image/image375.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "376": {
+        "question": "Which group has the smallest Y value?\nA. Group 1\nB. Group 2\nC. Group 3",
+        "answer": "B",
+        "image": "image/image376.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "377": {
+        "question": "Which month shows the greatest increase in temperature from the previous month?",
+        "answer": "Jul",
+        "image": "image/image377.png",
+        "answer_type": "text",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "378": {
+        "question": "Which quarter had the highest average rainfall?",
+        "answer": "Q1",
+        "image": "image/image378.png",
+        "answer_type": "text",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "379": {
+        "question": "Which city had the highest average temperature in July? Choices: (A) City 1 (B) City 2 (C) Both",
+        "answer": "A",
+        "image": "image/image379.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "380": {
+        "question": "Which month has the highest average temperature after smoothing with a 3-month moving average?",
+        "answer": "Sep",
+        "image": "image/image380.png",
+        "answer_type": "text",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "381": {
+        "question": "Which year had the highest peak in stock prices? Choices: (A) Year 1 (B) Year 2 (C) Both",
+        "answer": "B",
+        "image": "image/image381.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "382": {
+        "question": "What is the highest stock price recorded in the year?",
+        "answer": "450",
+        "image": "image/image382.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "383": {
+        "question": "Which month had the highest number of visitors to the website?",
+        "answer": "Oct",
+        "image": "image/image383.png",
+        "answer_type": "text",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "384": {
+        "question": "Which region had the lowest average monthly temperature in winter? Choices: (A) Region 1 (B) Region 2 (C) Both",
+        "answer": "B",
+        "image": "image/image384.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "385": {
+        "question": "What is the lowest heart rate recorded during the workout session?",
+        "answer": "90",
+        "image": "image/image385.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "386": {
+        "question": "The performance score is always the multiple of ten. Which player had the most consistent performance throughout the season? Choice: (A) Player 1 (B) Player 2",
+        "answer": "A",
+        "image": "image/image386.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "387": {
+        "question": "Use the graph to answer the question below. Which month is the coolest on average in Cape Town?",
+        "answer": "Jun",
+        "image": "image/image387.png",
+        "answer_type": "text",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "388": {
+        "question": "The histograms below represent donation amounts in different countries. Which country has the most people to donate between $50 and $100? Choices: (A) USA (B) Canada (C) UK (D) Australia",
+        "answer": "C",
+        "image": "image/image388.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "389": {
+        "question": "The histograms below represent the number of rainy days per month in two cities. Which city has a higher number of rainy days? Choices: (A) City A (B) City B",
+        "answer": "A",
+        "image": "image/image389.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "390": {
+        "question": "The histogram below represents the scores of students in a class. What is the most common range of scores in the class? Choices: (A) 50-60 (B) 60-70 (C) 70-80 (D) 80-90 (E) 90-100",
+        "answer": "A",
+        "image": "image/image390.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "391": {
+        "question": "The histograms below represent the work hours of employees in different departments. Which department has the highest number of employees working more than 40 hours per week? Choices: (A) HR (B) IT (C) Finance (D) Marketing",
+        "answer": "C",
+        "image": "image/image391.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "392": {
+        "question": "All values are integers. What is the sum of all values strictly greater than 7 across all categories?",
+        "answer": "16",
+        "image": "image/image392.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "393": {
+        "question": "All values are integers. What is the minimum value across all categories?",
+        "answer": "2",
+        "image": "image/image393.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "394": {
+        "question": "All values are integers. What is the sum of the squares of the differences between each value in Category 1 and the mean of Category 1?",
+        "answer": "38.75",
+        "image": "image/image394.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "395": {
+        "question": "All values are integers. What is the sum of the squares of the differences between each value in Category 1 and the mean of Category 2?",
+        "answer": "35.25",
+        "image": "image/image395.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "396": {
+        "question": "All values are integers. What is the smallest range (difference between the maximum and minimum values) among the three categories?",
+        "answer": "4",
+        "image": "image/image396.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "397": {
+        "question": "All values are integers. What is the product of the maximum values from each category?",
+        "answer": "360",
+        "image": "image/image397.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "398": {
+        "question": "All values are integers. What is the average of the middle values from each category?",
+        "answer": "5.0",
+        "image": "image/image398.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "399": {
+        "question": "All values are integers. What is the sum of all values strictly smaller than 3 across all categories?",
+        "answer": "0",
+        "image": "image/image399.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "400": {
+        "question": "All values are integers. What is the mean value of category with the highest sum?",
+        "answer": "6.3333",
+        "image": "image/image400.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "401": {
+        "question": "All values are integers. What is the maximum value across all categories?",
+        "answer": "10",
+        "image": "image/image401.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "402": {
+        "question": "All values are integers. What is the minimum value across all categories?",
+        "answer": "2",
+        "image": "image/image402.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "403": {
+        "question": "All values are integers. How many categories for each item is shown in this bar plot?",
+        "answer": "3",
+        "image": "image/image403.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "elementary school"
+    },
+    "404": {
+        "question": "All values are integers. How many items is shown in this bar plot?",
+        "answer": "2",
+        "image": "image/image404.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "elementary school"
+    },
+    "405": {
+        "question": "All values are integers. What is the mean value of category with the highest sum?",
+        "answer": "6.25",
+        "image": "image/image405.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "406": {
+        "question": "All values are integers. What is the maximum value across all categories?",
+        "answer": "9",
+        "image": "image/image406.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "407": {
+        "question": "The table below represents the number of students in each grade at an elementary school. What is the average number of students per grade?",
+        "answer": "330.0",
+        "image": "image/image407.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "408": {
+        "question": "The table below represents the monthly temperatures in different cities. What is the average monthly temperature in City D for the first quarter?",
+        "answer": "6.0",
+        "image": "image/image408.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "409": {
+        "question": "The table below represents the monthly expenses of different departments. Which department has the highest average monthly expense? Choices: (A) HR (B) IT (C) Finance (D) Marketing",
+        "answer": "C",
+        "image": "image/image409.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "410": {
+        "question": "The table below represents the monthly revenue and expenses of different departments. Which department had the highest average monthly savings if savings are calculated as (Revenue - Expenses)? Choices: (A) HR (B) IT (C) Finance (D) Marketing",
+        "answer": "D",
+        "image": "image/image410.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "411": {
+        "question": "The table below represents the number of students in each grade at an elementary school. What is the difference between the highest and lowest number of students?",
+        "answer": "190",
+        "image": "image/image411.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "412": {
+        "question": "The table below represents the total sales and hours worked by employees. Which employee had the highest efficiency if efficiency is calculated as (Total Sales / Total Hours Worked)? Choices: (A) Alice (B) Bob (C) Charlie (D) David",
+        "answer": "D",
+        "image": "image/image412.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "413": {
+        "question": "The table below represents the monthly hours worked by employees. Which employee worked the most total hours? Choices: (A) Alice (B) Bob (C) Charlie (D) David (E) Eve",
+        "answer": "E",
+        "image": "image/image413.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "414": {
+        "question": "The table below represents the number of students in each grade at an elementary school. What is the total number of students in Grade 3?",
+        "answer": "280",
+        "image": "image/image414.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "415": {
+        "question": "The table below represents the quarterly sales of different products. Which product has the highest average quarterly sales? Choices: (A) Product A (B) Product B (C) Product C (D) Product D (E) Product E",
+        "answer": "E",
+        "image": "image/image415.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "416": {
+        "question": "The table below represents the quarterly sales of different products. What is the total sales of Product B?",
+        "answer": "12490",
+        "image": "image/image416.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "417": {
+        "question": "The table below represents the quarterly sales of different products. Which product has the highest total sales in Q2?",
+        "answer": "Product D",
+        "image": "image/image417.png",
+        "answer_type": "text",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "418": {
+        "question": "The table below represents the quarterly revenues of different regions. What is the projected revenue for Region A next year if the growth rate is the average quarterly growth rate this year?",
+        "answer": "65347.02",
+        "image": "image/image418.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "419": {
+        "question": "The table below represents the quarterly revenue from different regions. What is the total revenue in Q3?",
+        "answer": "128530",
+        "image": "image/image419.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "420": {
+        "question": "The table below represents the quarterly sales of different products. Which quarter had the highest total sales for all products combined? Choices: (A) Q1 (B) Q2 (C) Q3 (D) Q4",
+        "answer": "C",
+        "image": "image/image420.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "421": {
+        "question": "The table below represents the revenue and costs for different stores. What is the total profit for Store C in the first half of the year?",
+        "answer": "8890",
+        "image": "image/image421.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "422": {
+        "question": "The table below represents the scores of students in different subjects. What is the average score for Student C?",
+        "answer": "82.0",
+        "image": "image/image422.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "423": {
+        "question": "The table below represents the scores of students in different subjects. What is the median score for Student B?",
+        "answer": "83.0",
+        "image": "image/image423.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "424": {
+        "question": "The table below represents the scores of students in different subjects. What is the variance of the scores for Student D?",
+        "answer": "116.6667",
+        "image": "image/image424.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "425": {
+        "question": "The table below represents the number of students in each grade at an elementary school. What is the total number of students across all grades?",
+        "answer": "1600",
+        "image": "image/image425.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "426": {
+        "question": "The table below represents the scores of students in different subjects. What is the weighted average grade for Student A considering Math has a weight of 40%, Science 30%, English 20%, and History 10%?",
+        "answer": "77.1",
+        "image": "image/image426.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "high school"
+    },
+    "427": {
+        "question": "The pie chart below represents the number of girls and boys at a United States elementary school. What is the percentage of the boys? The answer should be a percentage between 0 and 100",
+        "answer": "44.1",
+        "image": "image/image427.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "elementary school"
+    },
+    "428": {
+        "question": "The pie chart below represents the number of each grade at a United States elementary school. What is the percentage of Grade 2? The answer should be a percentage between 0 and 100.",
+        "answer": "17.2",
+        "image": "image/image428.png",
+        "answer_type": "float",
+        "subject": "statistics",
+        "level": "elementary school"
+    },
+    "429": {
+        "question": "The pie chart below represents the types of pets pet owners have in City A. Suppose City A has 10000 pets in total, what is the most popular pet in City A? Choices: (A) Dogs (B) Cats (C) Birds (D) Fish",
+        "answer": "B",
+        "image": "image/image429.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "elementary school"
+    },
+    "430": {
+        "question": "Which color has the largest slice? Choices: (A) Red (B) Blue (C) Orange (D) Purple",
+        "answer": "D",
+        "image": "image/image430.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "elementary school"
+    },
+    "431": {
+        "question": "Is the orange slice larger than 25%? Choices: (A) Yes (B) No",
+        "answer": "A",
+        "image": "image/image431.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "elementary school"
+    },
+    "432": {
+        "question": "Is the total size of orange and purple greater than red and blue combined? Choices: (A) Yes (B) No",
+        "answer": "B",
+        "image": "image/image432.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "elementary school"
+    },
+    "433": {
+        "question": "What is the combined percentage of red and blue slices? Choices: (A) <30% (B) 30%-60% (C) >60%",
+        "answer": "B",
+        "image": "image/image433.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "elementary school"
+    },
+    "434": {
+        "question": "Are the slices for red and blue equal? Choices: (A) Yes (B) No",
+        "answer": "B",
+        "image": "image/image434.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "elementary school"
+    },
+    "435": {
+        "question": "Is the red slice smaller than the blue slice? Choices: (A) Yes (B) No",
+        "answer": "A",
+        "image": "image/image435.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "elementary school"
+    },
+    "436": {
+        "question": "Which color has the smallest slice? Choices: (A) Red (B) Blue (C) Orange (D) Purple",
+        "answer": "C",
+        "image": "image/image436.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "elementary school"
+    },
+    "437": {
+        "question": "The area chart below represents monthly rainfall in different regions. Which region had the highest rainfall in any single month? Choices: (A) North (B) South (C) East (D) West",
+        "answer": "B",
+        "image": "image/image437.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "438": {
+        "question": "The area chart below represents monthly sales in different product categories. Which category had the highest sales in any single month? Choices: (A) Electronics (B) Clothing (C) Groceries (D) Furniture",
+        "answer": "C",
+        "image": "image/image438.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "439": {
+        "question": "The area chart below represents monthly temperatures in different cities. Which city had the highest temperature in any single month? Choices: (A) City A (B) City B (C) City C (D) City D",
+        "answer": "D",
+        "image": "image/image439.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "440": {
+        "question": "The box plot below represents the salaries of employees in different departments. Which department has the highest median salary? Choices: (A) HR (B) IT (C) Finance (D) Marketing",
+        "answer": "B",
+        "image": "image/image440.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "441": {
+        "question": "The box plot below represents the customer satisfaction scores for different branches. Which branch has the smallest interquartile range (IQR) for customer satisfaction scores? Choices: (A) Branch A (B) Branch B (C) Branch C (D) Branch D",
+        "answer": "D",
+        "image": "image/image441.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "442": {
+        "question": "The box plot below represents the test scores of students in different grade levels. Which grade level has the greatest range of test scores? Choices: (A) Grade 1 (B) Grade 2 (C) Grade 3 (D) Grade 4",
+        "answer": "B",
+        "image": "image/image442.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "443": {
+        "question": "The boxen plot below represents different categories. Which category has the highest median value? Choices: (A) A (B) B (C) C (D) D (E) E",
+        "answer": "D",
+        "image": "image/image443.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "444": {
+        "question": "The density plot below represents different datasets. Which dataset has the highest mean? Choices: (A) Dataset A (B) Dataset B (C) Dataset C (D) Dataset D",
+        "answer": "C",
+        "image": "image/image444.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "445": {
+        "question": "The density plot below represents different datasets. Which dataset has the lowest variance? Choices: (A) Dataset A (B) Dataset B (C) Dataset C (D) Dataset D",
+        "answer": "B",
+        "image": "image/image445.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "446": {
+        "question": "The density plot below represents different datasets. Which dataset has the widest spread? Choices: (A) Dataset A (B) Dataset B (C) Dataset C (D) Dataset D",
+        "answer": "A",
+        "image": "image/image446.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "447": {
+        "question": "The Gantt chart below represents different tasks. Which task starts the earliest? Choices: (A) Task A (B) Task B (C) Task C (D) Task D (E) Task E",
+        "answer": "D",
+        "image": "image/image447.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "448": {
+        "question": "The Gantt chart below represents different tasks. Which task ends the latest? Choices: (A) Task A (B) Task B (C) Task C (D) Task D (E) Task E",
+        "answer": "A",
+        "image": "image/image448.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "449": {
+        "question": "The Gantt chart below represents different tasks. Which task has the longest duration? Choices: (A) Task A (B) Task B (C) Task C (D) Task D (E) Task E",
+        "answer": "B",
+        "image": "image/image449.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "450": {
+        "question": "The Gantt chart below represents different tasks. Which task overlaps with the most other tasks? Choices: (A) Task A (B) Task B (C) Task C (D) Task D (E) Task E",
+        "answer": "A",
+        "image": "image/image450.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "451": {
+        "question": "The Gantt chart below represents different tasks. Which task has the shortest duration? Choices: (A) Task A (B) Task B (C) Task C (D) Task D (E) Task E",
+        "answer": "D",
+        "image": "image/image451.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "452": {
+        "question": "The heatmap below represents the monthly attendance in different gym branches. Which month had the highest attendance across all branches? Choices: (A) January (B) February (C) March (D) April (E) May (F) June",
+        "answer": "F",
+        "image": "image/image452.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "453": {
+        "question": "The heatmap below represents the pollution levels in different regions across four seasons. Which region had the lowest average pollution level in the summer? Choices: (A) Region A (B) Region B (C) Region C (D) Region D",
+        "answer": "D",
+        "image": "image/image453.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "454": {
+        "question": "The heatmap below represents the sales of different products across four stores. Which product had the highest total sales across all stores? Choices: (A) Product 1 (B) Product 2 (C) Product 3 (D) Product 4",
+        "answer": "C",
+        "image": "image/image454.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "455": {
+        "question": "The heatmap below represents the sales in different regions over six months. Which month had the highest sales in the East region? Choices: (A) January (B) February (C) March (D) April (E) May (F) June",
+        "answer": "B",
+        "image": "image/image455.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "456": {
+        "question": "The heatmap below represents the number of wins by different teams in two halves of the season. Which team had the highest number of wins in the second half of the season? Choices: (A) Team A (B) Team B (C) Team C (D) Team D",
+        "answer": "B",
+        "image": "image/image456.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "457": {
+        "question": "The pair plot below represents different features. Which feature has the highest variance? Choices: (A) Feature A (B) Feature B (C) Feature C (D) Feature D",
+        "answer": "C",
+        "image": "image/image457.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "458": {
+        "question": "The Pareto chart below represents the contributions of different categories. Which category contributes to the highest percentage of the total? Choices: (A) A (B) B (C) C (D) D (E) E",
+        "answer": "B",
+        "image": "image/image458.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "459": {
+        "question": "The Pareto chart below represents the contributions of different categories. Which category is the smallest contributor? Choices: (A) A (B) B (C) C (D) D (E) E",
+        "answer": "A",
+        "image": "image/image459.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "460": {
+        "question": "The radar chart below represents different categories. Which category has the highest value? Choices: (A) A (B) B (C) C (D) D (E) E",
+        "answer": "C",
+        "image": "image/image460.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "461": {
+        "question": "The radar chart below represents different categories. Which category has the lowest value? Choices: (A) A (B) B (C) C (D) D (E) E",
+        "answer": "E",
+        "image": "image/image461.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "462": {
+        "question": "The radar chart below represents different categories. Which category is second highest? Choices: (A) A (B) B (C) C (D) D (E) E",
+        "answer": "E",
+        "image": "image/image462.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "463": {
+        "question": "The radar chart below represents different categories. Which category is second lowest? Choices: (A) A (B) B (C) C (D) D (E) E",
+        "answer": "E",
+        "image": "image/image463.png",
+        "answer_type": "multiple choice",
+        "subject": "statistics",
+        "level": "undergraduate"
+    },
+    "464": {
+        "question": "180 people were surveyed about their beverage preferences. The results are displayed in the Venn diagram below. What is the sum of people who prefer only Coffee or only Tea?",
+        "answer": "161",
+        "image": "image/image464.png",
+        "answer_type": "float",
+        "subject": "algebra",
+        "level": "high school"
+    },
+    "465": {
+        "question": "210 customers were surveyed about their product preferences. The results are displayed in the Venn diagram below. How many more customers prefer only Non-Organic products than only Organic ones?",
+        "answer": "24",
+        "image": "image/image465.png",
+        "answer_type": "float",
+        "subject": "algebra",
+        "level": "high school"
+    },
+    "466": {
+        "question": "200 people were surveyed about their environmental concerns. The results are displayed in the Venn diagram below. How many people are not concerned about either Climate Change or Deforestation?",
+        "answer": "19",
+        "image": "image/image466.png",
+        "answer_type": "float",
+        "subject": "algebra",
+        "level": "high school"
+    },
+    "467": {
+        "question": "180 moviegoers were surveyed about their genre preference. The results are displayed in the Venn diagram below. How many people like both Action and Comedy movies?",
+        "answer": "58",
+        "image": "image/image467.png",
+        "answer_type": "float",
+        "subject": "algebra",
+        "level": "high school"
+    },
+    "468": {
+        "question": "What is the intersection of sets A and B?\nA: [4, 6, 8, 14]\nB: [1, 3, 4, 5, 6, 8, 14]\nC: [1, 3, 5]\nD: [2, 10, 11, 15, 17]\n",
+        "answer": "D",
+        "image": "image/image468.png",
+        "answer_type": "multiple choice",
+        "subject": "algebra",
+        "level": "high school"
+    },
+    "469": {
+        "question": "What is the union of sets A and B?\nA: [1, 2, 4, 6, 7, 8, 10, 11, 12, 13, 15, 16, 17, 18]\nB: [4, 7, 13, 16]\nC: [1, 2, 8, 11, 15, 17]\nD: [6, 10, 12, 18]\n",
+        "answer": "A",
+        "image": "image/image469.png",
+        "answer_type": "multiple choice",
+        "subject": "algebra",
+        "level": "high school"
+    },
+    "470": {
+        "question": "Which elements are unique to set A?\nA: [10]\nB: [4, 7, 8, 10, 11, 12, 15, 17]\nC: [4, 7, 8, 11, 12, 15, 17]\nD: [2, 5, 9, 14, 18]\n",
+        "answer": "D",
+        "image": "image/image470.png",
+        "answer_type": "multiple choice",
+        "subject": "algebra",
+        "level": "high school"
+    },
+    "471": {
+        "question": "150 employees were surveyed about their skills. The results are displayed in the Venn diagram below. How many people possess unique skills?",
+        "answer": "109",
+        "image": "image/image471.png",
+        "answer_type": "float",
+        "subject": "algebra",
+        "level": "high school"
+    },
+    "472": {
+        "question": "200 people were surveyed about how they like to travel. The results are displayed in the Venn diagram below. How many people don't like to fly in an airplane?",
+        "answer": "123",
+        "image": "image/image472.png",
+        "answer_type": "float",
+        "subject": "algebra",
+        "level": "high school"
+    },
+    "473": {
+        "question": "Which elements are unique to set B?\nA: [15, 19]\nB: [2, 3, 4, 5, 7, 8, 11, 15, 16, 19]\nC: [2, 3, 4, 5, 7, 8, 11, 16]\nD: [1, 6, 9, 12, 17]\n",
+        "answer": "D",
+        "image": "image/image473.png",
+        "answer_type": "multiple choice",
+        "subject": "algebra",
+        "level": "high school"
+    },
+    "474": {
+        "question": "Matrix A is given in the image. What is the determinant of the matrix A?",
+        "answer": "31.622",
+        "image": "image/image474.png",
+        "answer_type": "float",
+        "subject": "algebra",
+        "level": "undergraduate"
+    },
+    "475": {
+        "question": "Matrix A and B are given in the image. What is the determinant of the matrix (A * B)?",
+        "answer": "-315.0",
+        "image": "image/image475.png",
+        "answer_type": "float",
+        "subject": "algebra",
+        "level": "undergraduate"
+    },
+    "476": {
+        "question": "Matrix A is given in the image. What is the sum of all elements in the matrix A?",
+        "answer": "-13.1",
+        "image": "image/image476.png",
+        "answer_type": "float",
+        "subject": "algebra",
+        "level": "undergraduate"
+    },
+    "477": {
+        "question": "Matrix A is given in the image. What is the sum of all elements in the matrix A?",
+        "answer": "10.000000000000004",
+        "image": "image/image477.png",
+        "answer_type": "float",
+        "subject": "algebra",
+        "level": "undergraduate"
+    },
+    "478": {
+        "question": "Matrices A, B, and C are given in the image. What is the sum of all elements in the matrix (A + B + C)?",
+        "answer": "37",
+        "image": "image/image478.png",
+        "answer_type": "float",
+        "subject": "algebra",
+        "level": "undergraduate"
+    },
+    "479": {
+        "question": "Matrix A is given in the image. What is the Frobenius norm of the matrix A?",
+        "answer": "11.908",
+        "image": "image/image479.png",
+        "answer_type": "float",
+        "subject": "algebra",
+        "level": "undergraduate"
+    },
+    "480": {
+        "question": "Matrix A is given in the image. What is the trace of the matrix A?",
+        "answer": "5.900000000000001",
+        "image": "image/image480.png",
+        "answer_type": "float",
+        "subject": "algebra",
+        "level": "undergraduate"
+    },
+    "481": {
+        "question": "Matrix A is given in the image. What is the trace of the matrix A?",
+        "answer": "4.98",
+        "image": "image/image481.png",
+        "answer_type": "float",
+        "subject": "algebra",
+        "level": "undergraduate"
+    },
+    "482": {
+        "question": "Matrix A is given in the image. What is the trace of the matrix A?",
+        "answer": "9.03",
+        "image": "image/image482.png",
+        "answer_type": "float",
+        "subject": "algebra",
+        "level": "undergraduate"
+    },
+    "483": {
+        "question": "Matrix A is given in the image. What is the trace of the matrix A?",
+        "answer": "13.14",
+        "image": "image/image483.png",
+        "answer_type": "float",
+        "subject": "algebra",
+        "level": "undergraduate"
+    },
+    "484": {
+        "question": "Matrix A is given in the image. What is the trace of the matrix A?",
+        "answer": "10.0",
+        "image": "image/image484.png",
+        "answer_type": "float",
+        "subject": "algebra",
+        "level": "undergraduate"
+    },
+    "485": {
+        "question": "Matrix A and B are given in the image. What is the trace of the matrix (A * B)?",
+        "answer": "-2",
+        "image": "image/image485.png",
+        "answer_type": "float",
+        "subject": "algebra",
+        "level": "undergraduate"
+    },
+    "486": {
+        "question": "Matrices A, B, and C are given in the image. What is the trace of the matrix (A * B * C)?",
+        "answer": "54",
+        "image": "image/image486.png",
+        "answer_type": "float",
+        "subject": "algebra",
+        "level": "undergraduate"
+    },
+    "487": {
+        "question": "Matrices A, B, and C are given in the image. What is the trace of the matrix (A - B - C)?",
+        "answer": "2",
+        "image": "image/image487.png",
+        "answer_type": "float",
+        "subject": "algebra",
+        "level": "undergraduate"
+    },
+    "488": {
+        "question": "Matrix A and B are given in the image. What is the trace of the matrix (A + B)?",
+        "answer": "1",
+        "image": "image/image488.png",
+        "answer_type": "float",
+        "subject": "algebra",
+        "level": "undergraduate"
+    },
+    "489": {
+        "question": "Matrices A, B, and C are given in the image. What is the trace of the matrix (A + B + C)?",
+        "answer": "10",
+        "image": "image/image489.png",
+        "answer_type": "float",
+        "subject": "algebra",
+        "level": "undergraduate"
+    },
+    "490": {
+        "question": "Matrices A, B, and C are given in the image. What is the trace of the matrix ((A + B) * C)?",
+        "answer": "228",
+        "image": "image/image490.png",
+        "answer_type": "float",
+        "subject": "algebra",
+        "level": "undergraduate"
+    },
+    "491": {
+        "question": "Matrices A, B, and C are given in the image. What is the trace of the matrix (A - B + C)?",
+        "answer": "-8",
+        "image": "image/image491.png",
+        "answer_type": "float",
+        "subject": "algebra",
+        "level": "undergraduate"
+    },
+    "492": {
+        "question": "x and y are the solutions of the above equations. What is the sum of x and y?",
+        "answer": "-11",
+        "image": "image/image492.png",
+        "answer_type": "float",
+        "subject": "algebra",
+        "level": "high school"
+    },
+    "493": {
+        "question": "x, y, and z are the solutions of the above equations. What is x*y*z?",
+        "answer": "-378",
+        "image": "image/image493.png",
+        "answer_type": "float",
+        "subject": "algebra",
+        "level": "high school"
+    },
+    "494": {
+        "question": "x, y, and z are the solutions of the above equations. What is x + y + z?",
+        "answer": "-8",
+        "image": "image/image494.png",
+        "answer_type": "float",
+        "subject": "algebra",
+        "level": "high school"
+    },
+    "495": {
+        "question": "What is the value of a * b + c?",
+        "answer": "75",
+        "image": "image/image495.png",
+        "answer_type": "float",
+        "subject": "algebra",
+        "level": "high school"
+    },
+    "496": {
+        "question": "What is the value of (e - f) / g?",
+        "answer": "7.0",
+        "image": "image/image496.png",
+        "answer_type": "float",
+        "subject": "algebra",
+        "level": "high school"
+    },
+    "497": {
+        "question": "What is the value of (i ^ j) * k?",
+        "answer": "25",
+        "image": "image/image497.png",
+        "answer_type": "float",
+        "subject": "algebra",
+        "level": "high school"
+    },
+    "498": {
+        "question": "Given positive integers m, n, and o. From the system equation in the image. What is the value of m * n - o?",
+        "answer": "-2",
+        "image": "image/image498.png",
+        "answer_type": "float",
+        "subject": "algebra",
+        "level": "high school"
+    },
+    "499": {
+        "question": "What is the value of a^2 + c?",
+        "answer": "32",
+        "image": "image/image499.png",
+        "answer_type": "float",
+        "subject": "algebra",
+        "level": "high school"
+    },
+    "500": {
+        "question": "Which operation is omitted in the equation as shown in the image? Choices: (A) + (B) - (C) * (D) /",
+        "answer": "B",
+        "image": "image/image500.png",
+        "answer_type": "multiple choice",
+        "subject": "algebra",
+        "level": "elementary school"
+    },
+    "501": {
+        "question": "Which operation is omitted in the equation as shown in the image? Choices: (A) + (B) - (C) * (D) /",
+        "answer": "D",
+        "image": "image/image501.png",
+        "answer_type": "multiple choice",
+        "subject": "algebra",
+        "level": "elementary school"
+    }
+}

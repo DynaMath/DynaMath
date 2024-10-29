@@ -1,0 +1,30 @@
+Four of the numbers 1,3,4,5 and 7 are written into the boxes so that the calculation is correct. Which number was not used? ex
+
+Answer: 4
+
+Let's think this step by step: We need to fill in the four boxes with four numbers from the set {1, 3, 4, 5, 7} so that the equation holds true. The goal is to determine which number was not used.
+
+The equation is:
+
+\[
+\boxed{\phantom{a}} + \boxed{\phantom{b}} = \boxed{\phantom{c}} + \boxed{\phantom{d}}
+\]
+
+### Step 1: Identify the relationship
+We know the sum on both sides of the equation must be equal. So, we must select two numbers on the left-hand side and two numbers on the right-hand side such that their sums are equal.
+
+### Step 2: Try different combinations
+Since four of these numbers will be used, their sum must add up to an even number (because both sides of the equation need to be equal). So, the total sum of the four numbers used must be 20 minus the number not used.
+Start with the assumption that we leave one number out and see if the remaining four can be split into two groups with equal sums.
+
+- If we leave out 1: The remaining numbers are {3, 4, 5, 7}. The total sum is 19, which is odd. Therefore, this doesn't work.
+- If we leave out 3: The remaining numbers are {1, 4, 5, 7}. The total sum is 17, which is odd. Therefore, this doesn't work.
+- If we leave out 4: The remaining numbers are {1, 3, 5, 7}. The total sum is 16, which is even. Let's try to form equal sums:
+  
+  - \( 1 + 7 = 8 \)
+  - \( 3 + 5 = 8 \)
+
+  This works! The numbers {1, 3, 5, 7} can be split into two groups that satisfy the equation.
+
+### Step 4: Conclusion
+The number that was not used is **4**.

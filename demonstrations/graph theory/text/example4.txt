@@ -1,0 +1,24 @@
+Zita walks from left to right and puts the numbers into her basket. Which of the following numbers can be in her basket? 
+(A) 1, 2 and 4 (B) 2, 3 and 4 (C) 2, 3 and 5 (D) 1, 5 and 6  (E) 1, 2 and 5
+
+Answer: C
+
+Let's think this step by step: Let's carefully analyze Zita's path as she walks from left to right, following the lanes numbered 1 through 6, and figure out which numbers she can collect.
+
+- The first split shows two options: Zita can either go into lane **1** or lane **2**.
+- After passing through either lane 1 or 2, there is another split into lanes **3** and **4**.
+- Finally, after passing through lanes 3 or 4, there is a third split into lanes **5** and **6**.
+
+### Path Analysis:
+- If Zita starts in lane **1**, she can then move to lane **3** and then either **5** or **6**.
+- If Zita starts in lane **2**, she can then move to lane **4** and then either **5** or **6**.
+
+### Now, let's analyze the options provided:
+- **(A) 1, 2 and 4**: Zita can't be in lanes **1** and **2** at the same time, so this is **not possible**.
+- **(B) 2, 3 and 4**: Zita can't move from lane **2** to lane **3**; she can only go to lane **4** from lane **2**, so this is **not possible**.
+- **(C) 2, 3 and 5**: Zita can move from lane **2** to lane **3** and then from **3** to **5**; so this is **possible**.
+- **(D) 1, 5 and 6**: If Zita starts in lane **1**, she can move to either lane **5** or **6**. However, she can't collect both 5 and 6, so this is **not possible**.
+- **(E) 1, 2 and 5**: Zita can't be in both lanes **1** and **2** at the same time, so this is **not possible**.
+
+### Correct Answer:
+Therefore the final answer is **(C)**.

@@ -1,0 +1,23 @@
+A $1 \times 1 \times 1$ cube is cut out of each corner of a $3 \times 3 \times 3$ cube. The picture shows the result after the first cube is cut out. How many faces will the final shape have?
+
+Answer: 30
+
+Let's think this step by step: To solve the problem, we need to understand how cutting a \( 1 \times 1 \times 1 \) cube from each corner of a \( 3 \times 3 \times 3 \) cube affects the number of faces.
+
+### Key observations:
+- Initially, the \( 3 \times 3 \times 3 \) cube has **6 faces**.
+- When a \( 1 \times 1 \times 1 \) cube is cut out from a corner, 3 new smaller faces are exposed on the original cube (one for each axis direction: x, y, and z).
+- The cube has 8 corners, so cutting a \( 1 \times 1 \times 1 \) cube from each corner exposes \( 8 \times 3 = 24 \) new faces in total.
+
+### Total faces:
+- The original 6 faces still exist, though some parts of them are now missing due to the cut corners.
+- The cuts expose 24 new faces.
+
+Thus, the final number of faces is the sum of the original 6 faces and the 24 newly exposed faces:
+
+\[
+6 + 24 = 30 \text{ faces}.
+\]
+
+### Final Answer:
+The final shape will have **30 faces**.

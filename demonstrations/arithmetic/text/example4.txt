@@ -1,0 +1,32 @@
+Four people can be seated at a square table. How many people at most could be seated if we pushed four tables of this kind together in one row?
+
+Answer: 10
+
+Let's think this step by step: Let’s break down the problem:
+
+- A square table can seat 4 people — one on each side of the table.
+- If we push four square tables together in one row, some of the sides that used to seat people will no longer be available because they will be pushed against the adjacent tables.
+
+### Step-by-Step Solution:
+
+1. **First table**: This table has 4 sides, and each side can seat 1 person.
+2. **Second, third, and fourth tables**: When you push the tables together, the sides that touch other tables cannot seat anyone.
+
+- For the middle tables (2nd and 3rd), only **2 sides** (the front and back) are available for seating.
+- For the first and last tables in the row, **3 sides** are available for seating (since only 1 side is blocked by the next table).
+
+### Breakdown:
+- First table: 3 people.
+- Second table: 2 people.
+- Third table: 2 people.
+- Fourth table: 3 people.
+
+### Total number of people:
+\[
+3 + 2 + 2 + 3 = 10 \text{ people}.
+\]
+
+### Final Answer:
+At most, **10 people** could be seated if four square tables are pushed together in one row.
+
+Therefore, the correct option is **10**.

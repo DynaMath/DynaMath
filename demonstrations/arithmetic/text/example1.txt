@@ -1,0 +1,21 @@
+Which number should be written in place of the question mark? 
+
+Answer: 60
+
+Let's think this step by step: To find the missing number in the sequence, let's analyze the pattern in the numbers on the train:
+
+- The numbers on the train are: \( 90, 80, 70, \, ?, \, 50, 40, 30, 20 \).
+
+This is an arithmetic sequence where the difference between consecutive numbers is \( -10 \). Each number is decreasing by 10.
+
+### Pattern:
+- \( 90 - 10 = 80 \)
+- \( 80 - 10 = 70 \)
+- \( 70 - 10 = 60 \) (missing number)
+- \( 60 - 10 = 50 \)
+- \( 50 - 10 = 40 \)
+- \( 40 - 10 = 30 \)
+- \( 30 - 10 = 20 \)
+
+### Conclusion:
+The number that should replace the question mark is **60**.

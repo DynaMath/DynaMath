@@ -1,0 +1,24 @@
+Chris constructed the brick on the picture using red and blue cubes of the same size. The outside of the brick is completely red, but all cubes used inside are blue. How many blue cubes did Chris use?
+
+Answer: 12
+
+Let's think this step by step: The total structure is actually a \(5 \times 4 \times 4\) rectangular prism.
+
+1. **Total number of cubes**:
+   \[
+   5 \times 4 \times 4 = 80 \text{ cubes}.
+   \]
+
+2. **Inner blue cubes**:
+   - Subtracting 2 from each dimension to remove the red outer layer:
+     \[
+     (5-2) \times (4-2) \times (4-2) = 3 \times 2 \times 2.
+     \]
+   - The inner blue core has:
+     \[
+     3 \times 2 \times 2 = 12 \text{ blue cubes}.
+     \]
+
+So, inside the prism, Chris used **12 blue cubes**.
+
+Therefore, the correct option is **12**.

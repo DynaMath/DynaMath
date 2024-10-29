@@ -1,0 +1,15 @@
+Which bike is most expensive?
+
+Answer: (A)
+
+Let's think this step by step: The prices of the bikes are listed above each one in the image:
+
+- **Bike A**: 950 Lt
+- **Bike B**: 590 Lt
+- **Bike C**: 905 Lt
+- **Bike D**: 899 Lt
+- **Bike E**: 509 Lt
+
+The most expensive bike is **Bike A**, which costs **950 Lt**.
+
+Therefore, the correct option is **A**.

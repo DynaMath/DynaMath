@@ -1,0 +1,15 @@
+If the population of the red squirrels increased, what would happen to the amount of pine available?
+(A) The amount of pine available would remain the same.
+(B) The amount of pine available would decrease.
+(C) The amount of pine available would double.
+(D) The amount of pine available would increase.
+
+Answer: (B)
+
+Let's think this step by step: In the food web of Isle Royale National Park, the red squirrels are primary consumers that feed on pine, which is a primary producer.
+
+If the population of red squirrels increases, the consumption of pine would increase because more squirrels would be feeding on it. As a result, the amount of pine available would decrease.
+
+**Conclusion:** If the population of red squirrels increased, the amount of pine available would **decrease**.
+
+Thus, the correct option is \( B \).

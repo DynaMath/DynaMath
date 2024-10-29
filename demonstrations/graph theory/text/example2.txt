@@ -1,0 +1,19 @@
+A river starts at point $A$. As it flows the river splits into two. The first branch takes $\frac{2}{3}$ of the water and the second takes the rest. Later the first branch splits into three, one taking $\frac{1}{8}$ of the branch's water, the second $\frac{5}{8}$ and the third one the rest. Further down this last branch meets again a branch of the river. The map below shows the situation. What part of the original water flows at point $B$? 
+
+Answer: 0.25
+
+Let's think this step by step: 
+1. The **first branch** takes \( \frac{2}{3} \) of the total water.
+2. The **first branch** then splits further, where:
+   - One sub-branch takes \( \frac{1}{8} \) of the water from the first branch.
+   - Another sub-branch takes \( \frac{5}{8} \) of the water from the first branch.
+
+3. Therefore, the remaining water in the first branch that flows to point \( B \) is:
+   \[
+   1 - \left( \frac{1}{8} + \frac{5}{8} \right) = 1 - \frac{6}{8} = \frac{2}{8} = \frac{1}{4}.
+   \]
+
+This means that **\( \frac{1}{4} \)** of the total water from the first branch flows into the branch that reaches point \( B \).
+
+### Final Answer:
+Therefore, the correct answer is **\( \frac{1}{4} \)** of the total water flows at point \( B \).

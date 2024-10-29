@@ -1,0 +1,25 @@
+The construction in the picture is built of cubes of the same size and weighs 189 grams. How many grams does one cube weigh?
+
+Answer: 21
+
+Let's think this step by step: To determine how many grams one cube weighs, we first need to count the total number of cubes in the structure.
+
+Looking at the image:
+
+- There are two layers.
+- In the top layer, there are 3 cubes.
+- In the bottom layer, there are 6 cubes.
+
+Thus, the total number of cubes is:
+\[
+3 \text{ (top layer)} + 6 \text{ (bottom layer)} = 9 \text{ cubes}.
+\]
+
+The total weight of the structure is 189 grams. To find the weight of one cube, we divide the total weight by the number of cubes:
+
+\[
+\frac{189 \text{ grams}}{9 \text{ cubes}} = 21 \text{ grams per cube}.
+\]
+
+### Final Answer:
+Each cube weighs **21 grams**.

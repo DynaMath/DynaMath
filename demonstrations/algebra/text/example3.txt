@@ -1,0 +1,41 @@
+A sandwich and a juice cost 12 Euros together. A sandwich and two juices cost 14 Euros together. How many Euros does one juice cost?
+
+Answer: 2
+
+Let's think this step by step: To solve this problem, we'll set up two equations based on the information given.
+
+Let:
+- \( S \) = cost of one sandwich (in Euros)
+- \( J \) = cost of one juice (in Euros)
+
+**From the first statement:**
+
+1. *A sandwich and a juice cost 12 Euros together:*
+   \[
+   S + J = 12 \quad \text{(Equation 1)}
+   \]
+
+**From the second statement:**
+
+2. *A sandwich and two juices cost 14 Euros together:*
+   \[
+   S + 2J = 14 \quad \text{(Equation 2)}
+   \]
+
+**To find the cost of one juice (\( J \)), follow these steps:**
+
+**Step 1: Subtract Equation 1 from Equation 2 to eliminate \( S \):**
+
+\[
+(S + 2J) - (S + J) = 14 - 12
+\]
+\[
+S + 2J - S - J = 2
+\]
+\[
+J = 2
+\]
+
+**Step 2: Conclude the cost of one juice:**
+
+- One juice costs **2 Euros**.

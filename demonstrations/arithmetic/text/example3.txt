@@ -1,0 +1,14 @@
+Which number do you have to write in the last daisy? 
+
+Answer: 61
+
+Let's think this step by step: Let's solve the problem step by step by applying the given operations between the numbers:
+
+- Start with \( 48 \).
+- Subtract 20: \( 48 - 20 = 28 \).
+- Add 9: \( 28 + 9 = 37 \).
+- Subtract 6: \( 37 - 6 = 31 \).
+- Add 30: \( 31 + 30 = 61 \).
+
+### Final Answer:
+The number you should write in the last daisy is **61**.

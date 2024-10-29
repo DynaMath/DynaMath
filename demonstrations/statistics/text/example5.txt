@@ -1,0 +1,18 @@
+What is the sum of woman widowed and divorced or separated?
+
+Answer: 306
+
+Let's think this step by step: From the bar chart:
+
+- The number of **widowed women** is 186.
+- The number of **divorced or separated women** is 120.
+
+The sum is:
+
+\[
+186 + 120 = 306
+\]
+
+Thus, the sum of widowed and divorced or separated women is **306**.
+
+The correct option is **306**.

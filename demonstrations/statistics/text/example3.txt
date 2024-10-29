@@ -1,0 +1,13 @@
+How many bars have value more then 2.5?
+
+Answer: 3
+
+Let's think this step by step: From the bar chart, the bars with values greater than 2.5 are:
+
+1. Milk (3.88)
+2. Flour (3.24)
+3. Eggs (2.65)
+
+Thus, there are **3 bars** with values greater than 2.5.
+
+The correct option is **3**.

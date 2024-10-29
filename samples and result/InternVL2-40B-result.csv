@@ -1,0 +1,526 @@
+Question ID,Variant 1,Variant 2,Variant 3,Variant 4,Variant 5,Variant 6,Variant 7,Variant 8,Variant 9,Variant 10,# of correct per question,Topic,Difficulty Level
+Q1,fail,fail,fail,correct,correct,fail,fail,correct,fail,fail,3,analytic geometry,high school
+Q2,correct,fail,correct,correct,correct,correct,correct,correct,correct,correct,9,statistics,elementary school
+Q3,correct,correct,correct,correct,fail,correct,correct,correct,correct,fail,8,statistics,high school
+Q4,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,statistics,high school
+Q5,fail,correct,correct,correct,correct,correct,correct,correct,correct,correct,9,statistics,elementary school
+Q6,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,analytic geometry,high school
+Q7,fail,fail,fail,fail,fail,fail,correct,fail,fail,fail,1,arithmetic,elementary school
+Q8,fail,fail,fail,fail,correct,fail,fail,fail,fail,fail,1,plane geometry,high school
+Q9,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,plane geometry,elementary school
+Q10,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,plane geometry,elementary school
+Q11,fail,fail,fail,fail,fail,fail,fail,fail,correct,fail,1,plane geometry,high school
+Q12,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,analytic geometry,high school
+Q13,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,plane geometry,high school
+Q14,fail,correct,fail,correct,correct,correct,correct,fail,fail,correct,6,analytic geometry,high school
+Q15,correct,fail,fail,correct,fail,fail,correct,correct,correct,fail,5,analytic geometry,high school
+Q16,correct,correct,correct,correct,correct,fail,correct,correct,correct,correct,9,algebra,high school
+Q17,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,plane geometry,elementary school
+Q18,fail,fail,fail,fail,fail,fail,fail,correct,fail,correct,2,plane geometry,elementary school
+Q19,correct,correct,correct,correct,correct,correct,correct,correct,fail,correct,9,statistics,elementary school
+Q20,fail,correct,correct,correct,fail,fail,correct,correct,fail,fail,5,statistics,elementary school
+Q21,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,arithmetic,elementary school
+Q22,correct,fail,fail,correct,fail,fail,fail,fail,fail,fail,2,arithmetic,elementary school
+Q23,correct,correct,correct,fail,fail,fail,fail,fail,fail,fail,3,analytic geometry,high school
+Q24,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,plane geometry,high school
+Q25,fail,correct,correct,fail,fail,fail,correct,fail,fail,correct,4,arithmetic,elementary school
+Q26,correct,fail,fail,fail,fail,correct,fail,fail,fail,fail,2,plane geometry,high school
+Q27,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,solid geometry,high school
+Q28,correct,fail,correct,correct,fail,correct,fail,fail,correct,correct,6,plane geometry,high school
+Q29,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,arithmetic,elementary school
+Q30,correct,correct,correct,correct,fail,correct,fail,correct,correct,correct,8,statistics,elementary school
+Q31,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,arithmetic,elementary school
+Q32,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,plane geometry,high school
+Q33,correct,correct,fail,fail,correct,correct,correct,correct,correct,fail,7,analytic geometry,undergraduate
+Q34,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,plane geometry,high school
+Q35,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,arithmetic,elementary school
+Q36,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,solid geometry,high school
+Q37,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,statistics,elementary school
+Q38,fail,fail,fail,correct,correct,fail,fail,fail,fail,fail,2,plane geometry,high school
+Q39,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,statistics,undergraduate
+Q40,fail,fail,fail,fail,correct,fail,fail,fail,fail,fail,1,algebra,high school
+Q41,correct,correct,correct,correct,correct,correct,correct,fail,correct,correct,9,plane geometry,high school
+Q42,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,graph theory,undergraduate
+Q43,fail,fail,fail,fail,correct,fail,fail,correct,fail,fail,2,plane geometry,high school
+Q44,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,plane geometry,high school
+Q45,fail,fail,fail,fail,fail,fail,fail,fail,correct,fail,1,plane geometry,high school
+Q46,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,analytic geometry,high school
+Q47,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,analytic geometry,high school
+Q48,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,statistics,elementary school
+Q49,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,plane geometry,high school
+Q50,fail,correct,fail,fail,correct,correct,correct,fail,correct,fail,5,analytic geometry,high school
+Q51,correct,fail,fail,fail,fail,fail,fail,fail,fail,fail,1,arithmetic,elementary school
+Q52,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,analytic geometry,undergraduate
+Q53,fail,fail,correct,fail,fail,fail,fail,fail,correct,correct,3,plane geometry,high school
+Q54,correct,correct,correct,correct,correct,correct,correct,correct,correct,fail,9,analytic geometry,high school
+Q55,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,plane geometry,high school
+Q56,correct,correct,correct,fail,correct,correct,correct,fail,fail,fail,6,analytic geometry,high school
+Q57,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,plane geometry,high school
+Q58,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,analytic geometry,high school
+Q59,correct,fail,fail,correct,fail,fail,correct,correct,correct,correct,6,arithmetic,high school
+Q60,fail,fail,fail,fail,fail,correct,correct,fail,correct,correct,4,solid geometry,high school
+Q61,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,analytic geometry,high school
+Q62,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,plane geometry,elementary school
+Q63,fail,fail,correct,fail,correct,correct,fail,fail,correct,fail,4,algebra,high school
+Q64,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,analytic geometry,undergraduate
+Q65,correct,correct,correct,correct,correct,correct,fail,correct,correct,correct,9,plane geometry,high school
+Q66,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,plane geometry,high school
+Q67,correct,correct,fail,fail,fail,correct,correct,correct,correct,correct,7,plane geometry,high school
+Q68,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,analytic geometry,high school
+Q69,correct,fail,fail,fail,fail,correct,correct,fail,fail,correct,4,analytic geometry,high school
+Q70,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,plane geometry,high school
+Q71,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,arithmetic,elementary school
+Q72,correct,fail,correct,correct,fail,fail,correct,correct,correct,correct,7,statistics,undergraduate
+Q73,fail,fail,correct,fail,fail,fail,fail,fail,fail,fail,1,analytic geometry,high school
+Q74,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,solid geometry,high school
+Q75,fail,correct,correct,correct,fail,correct,fail,correct,fail,fail,5,analytic geometry,high school
+Q76,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,analytic geometry,high school
+Q77,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,analytic geometry,undergraduate
+Q78,fail,fail,correct,fail,fail,fail,correct,fail,fail,fail,2,analytic geometry,undergraduate
+Q79,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,analytic geometry,undergraduate
+Q80,fail,fail,fail,correct,fail,correct,fail,fail,fail,fail,2,plane geometry,high school
+Q81,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,plane geometry,high school
+Q82,fail,correct,fail,fail,fail,fail,fail,fail,fail,fail,1,algebra,undergraduate
+Q83,fail,correct,fail,fail,fail,correct,correct,correct,fail,fail,4,plane geometry,high school
+Q84,fail,fail,fail,fail,fail,correct,fail,correct,correct,fail,3,plane geometry,high school
+Q85,correct,fail,fail,fail,fail,fail,correct,fail,fail,fail,2,plane geometry,high school
+Q86,fail,fail,correct,correct,correct,fail,correct,correct,correct,correct,7,analytic geometry,undergraduate
+Q87,correct,correct,correct,fail,correct,correct,correct,fail,correct,fail,7,analytic geometry,undergraduate
+Q88,correct,fail,correct,correct,correct,fail,correct,fail,fail,correct,6,analytic geometry,undergraduate
+Q89,correct,correct,fail,fail,correct,fail,correct,fail,correct,correct,6,algebra,undergraduate
+Q90,fail,fail,correct,fail,correct,correct,fail,fail,correct,fail,4,algebra,undergraduate
+Q91,correct,correct,correct,fail,correct,correct,correct,fail,correct,correct,8,arithmetic,high school
+Q92,fail,fail,fail,correct,fail,fail,fail,correct,fail,fail,2,analytic geometry,high school
+Q93,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,plane geometry,high school
+Q94,correct,correct,fail,fail,fail,fail,fail,correct,fail,correct,4,plane geometry,high school
+Q95,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,plane geometry,high school
+Q96,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,analytic geometry,high school
+Q97,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,plane geometry,high school
+Q98,fail,fail,fail,correct,fail,fail,correct,fail,fail,fail,2,analytic geometry,high school
+Q99,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,analytic geometry,high school
+Q100,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,scientific figure,high school
+Q101,fail,fail,correct,fail,fail,fail,fail,fail,fail,fail,1,analytic geometry,high school
+Q102,fail,correct,correct,correct,correct,fail,correct,correct,fail,fail,6,analytic geometry,high school
+Q103,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,analytic geometry,undergraduate
+Q104,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,arithmetic,elementary school
+Q105,correct,correct,correct,correct,correct,correct,fail,correct,correct,correct,9,analytic geometry,high school
+Q106,fail,correct,correct,correct,fail,correct,fail,fail,correct,fail,5,analytic geometry,undergraduate
+Q107,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,plane geometry,high school
+Q108,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,algebra,high school
+Q109,correct,correct,fail,fail,fail,correct,correct,fail,correct,correct,6,analytic geometry,high school
+Q110,fail,fail,fail,fail,correct,fail,correct,correct,fail,fail,3,analytic geometry,high school
+Q111,correct,correct,fail,fail,correct,correct,correct,correct,fail,fail,6,analytic geometry,high school
+Q112,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,plane geometry,high school
+Q113,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,plane geometry,high school
+Q114,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,scientific figure,elementary school
+Q115,fail,correct,fail,fail,correct,correct,fail,fail,fail,correct,4,puzzle test,elementary school
+Q116,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,plane geometry,high school
+Q117,correct,fail,fail,correct,correct,fail,fail,correct,correct,correct,6,analytic geometry,undergraduate
+Q118,correct,fail,fail,fail,fail,fail,fail,fail,fail,fail,1,analytic geometry,undergraduate
+Q119,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,analytic geometry,undergraduate
+Q120,fail,correct,correct,correct,fail,correct,fail,correct,correct,correct,7,graph theory,undergraduate
+Q121,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,algebra,high school
+Q122,fail,fail,fail,fail,fail,fail,fail,correct,fail,fail,1,plane geometry,high school
+Q123,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,plane geometry,high school
+Q124,correct,correct,correct,fail,correct,correct,correct,fail,fail,correct,7,analytic geometry,undergraduate
+Q125,fail,correct,correct,fail,correct,fail,fail,correct,fail,fail,4,analytic geometry,high school
+Q126,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,solid geometry,high school
+Q127,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,plane geometry,high school
+Q128,fail,fail,fail,fail,fail,fail,fail,fail,correct,fail,1,analytic geometry,high school
+Q129,fail,fail,fail,fail,correct,correct,fail,correct,fail,fail,3,solid geometry,high school
+Q130,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,solid geometry,high school
+Q131,correct,correct,correct,correct,correct,correct,fail,fail,correct,correct,8,analytic geometry,undergraduate
+Q132,fail,fail,correct,fail,correct,fail,fail,fail,fail,fail,2,analytic geometry,high school
+Q133,fail,fail,fail,correct,fail,fail,fail,correct,fail,fail,2,analytic geometry,high school
+Q134,fail,fail,fail,fail,fail,correct,correct,fail,fail,fail,2,analytic geometry,high school
+Q135,fail,fail,fail,fail,fail,correct,fail,fail,fail,fail,1,analytic geometry,high school
+Q136,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,graph theory,undergraduate
+Q137,fail,fail,fail,fail,fail,fail,correct,fail,correct,correct,3,graph theory,undergraduate
+Q138,correct,correct,correct,correct,correct,fail,fail,fail,fail,correct,6,analytic geometry,high school
+Q139,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,analytic geometry,high school
+Q140,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,analytic geometry,high school
+Q141,correct,fail,fail,fail,fail,fail,fail,fail,fail,fail,1,solid geometry,high school
+Q142,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,graph theory,undergraduate
+Q143,fail,fail,fail,fail,fail,correct,fail,fail,fail,fail,1,analytic geometry,undergraduate
+Q144,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,analytic geometry,undergraduate
+Q145,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,solid geometry,high school
+Q146,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,puzzle test,high school
+Q147,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,analytic geometry,high school
+Q148,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,analytic geometry,high school
+Q149,correct,correct,correct,correct,correct,correct,correct,correct,fail,correct,9,analytic geometry,high school
+Q150,correct,fail,fail,fail,correct,fail,correct,correct,correct,fail,5,analytic geometry,high school
+Q151,fail,fail,fail,correct,fail,fail,fail,fail,fail,fail,1,graph theory,undergraduate
+Q152,correct,fail,fail,correct,correct,fail,correct,fail,correct,correct,6,graph theory,undergraduate
+Q153,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,plane geometry,high school
+Q154,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,plane geometry,high school
+Q155,correct,fail,fail,correct,fail,correct,fail,fail,fail,fail,3,puzzle test,high school
+Q156,fail,correct,fail,correct,fail,correct,correct,fail,correct,fail,5,puzzle test,high school
+Q157,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,plane geometry,high school
+Q158,fail,fail,fail,fail,fail,fail,correct,fail,fail,fail,1,plane geometry,high school
+Q159,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,analytic geometry,undergraduate
+Q160,fail,fail,correct,correct,fail,correct,correct,correct,fail,fail,5,analytic geometry,high school
+Q161,fail,fail,correct,fail,correct,fail,fail,fail,fail,correct,3,statistics,high school
+Q162,fail,correct,fail,correct,fail,correct,correct,correct,correct,correct,7,statistics,high school
+Q163,correct,correct,fail,correct,fail,fail,correct,fail,correct,fail,5,analytic geometry,high school
+Q164,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,analytic geometry,high school
+Q165,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,analytic geometry,high school
+Q166,correct,correct,fail,correct,correct,fail,fail,correct,correct,fail,6,analytic geometry,high school
+Q167,fail,fail,fail,correct,fail,fail,fail,fail,correct,correct,3,plane geometry,high school
+Q168,fail,correct,correct,correct,correct,fail,fail,correct,fail,fail,5,analytic geometry,high school
+Q169,fail,correct,fail,correct,correct,fail,fail,fail,correct,fail,4,analytic geometry,high school
+Q170,fail,fail,fail,fail,fail,fail,fail,correct,fail,correct,2,analytic geometry,high school
+Q171,fail,fail,fail,correct,correct,fail,fail,correct,fail,correct,4,plane geometry,high school
+Q172,fail,correct,fail,fail,fail,correct,fail,correct,fail,fail,3,plane geometry,high school
+Q173,correct,correct,fail,fail,fail,correct,correct,fail,correct,fail,5,plane geometry,high school
+Q174,fail,correct,correct,fail,correct,correct,fail,correct,correct,fail,6,plane geometry,high school
+Q175,fail,correct,correct,correct,fail,correct,fail,correct,fail,fail,5,analytic geometry,high school
+Q176,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,analytic geometry,high school
+Q177,correct,correct,fail,fail,correct,correct,fail,fail,fail,correct,5,analytic geometry,high school
+Q178,correct,fail,correct,fail,fail,fail,fail,fail,fail,fail,2,plane geometry,high school
+Q179,fail,fail,fail,fail,fail,correct,fail,fail,fail,fail,1,puzzle test,high school
+Q180,fail,fail,fail,fail,fail,correct,fail,fail,fail,correct,2,puzzle test,high school
+Q181,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,plane geometry,high school
+Q182,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,plane geometry,high school
+Q183,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,plane geometry,high school
+Q184,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,plane geometry,high school
+Q185,fail,correct,correct,fail,correct,correct,correct,fail,fail,fail,5,scientific figure,elementary school
+Q186,fail,fail,correct,fail,fail,fail,fail,fail,fail,fail,1,scientific figure,elementary school
+Q187,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,solid geometry,high school
+Q188,fail,correct,fail,fail,correct,correct,correct,fail,fail,correct,5,solid geometry,high school
+Q189,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,plane geometry,high school
+Q190,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,plane geometry,high school
+Q191,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,analytic geometry,high school
+Q192,fail,correct,fail,fail,fail,fail,fail,fail,fail,fail,1,analytic geometry,high school
+Q193,fail,fail,fail,fail,fail,correct,fail,fail,fail,fail,1,analytic geometry,high school
+Q194,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,plane geometry,high school
+Q195,fail,fail,fail,correct,fail,fail,correct,correct,fail,fail,3,plane geometry,high school
+Q196,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,puzzle test,high school
+Q197,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,plane geometry,high school
+Q198,correct,correct,fail,fail,correct,fail,correct,correct,correct,correct,7,analytic geometry,high school
+Q199,correct,correct,fail,correct,correct,correct,fail,correct,correct,fail,7,analytic geometry,high school
+Q200,fail,correct,fail,correct,correct,fail,correct,fail,fail,fail,4,plane geometry,high school
+Q201,fail,fail,fail,fail,fail,correct,fail,fail,fail,fail,1,arithmetic,undergraduate
+Q202,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,arithmetic,undergraduate
+Q203,correct,fail,correct,fail,fail,correct,correct,fail,correct,fail,5,analytic geometry,undergraduate
+Q204,correct,fail,correct,fail,correct,fail,fail,fail,correct,correct,5,analytic geometry,high school
+Q205,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,plane geometry,high school
+Q206,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,plane geometry,high school
+Q207,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,plane geometry,high school
+Q208,fail,fail,fail,fail,fail,fail,fail,correct,fail,fail,1,plane geometry,high school
+Q209,fail,correct,fail,fail,fail,correct,correct,fail,fail,fail,3,plane geometry,high school
+Q210,fail,fail,fail,correct,fail,correct,fail,correct,fail,correct,4,plane geometry,high school
+Q211,correct,correct,correct,correct,correct,fail,fail,correct,correct,fail,7,plane geometry,high school
+Q212,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,plane geometry,high school
+Q213,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,algebra,undergraduate
+Q214,correct,fail,fail,correct,fail,fail,fail,fail,fail,correct,3,plane geometry,high school
+Q215,correct,correct,correct,correct,correct,correct,correct,correct,correct,fail,9,plane geometry,high school
+Q216,fail,fail,fail,correct,fail,fail,fail,correct,fail,fail,2,analytic geometry,high school
+Q217,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,statistics,undergraduate
+Q218,fail,fail,correct,correct,fail,correct,fail,correct,correct,fail,5,statistics,undergraduate
+Q219,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,statistics,undergraduate
+Q220,correct,fail,correct,correct,correct,correct,fail,correct,correct,correct,8,graph theory,undergraduate
+Q221,fail,correct,fail,correct,correct,fail,correct,correct,fail,fail,5,graph theory,undergraduate
+Q222,correct,correct,fail,fail,fail,fail,correct,fail,fail,fail,3,graph theory,undergraduate
+Q223,fail,fail,fail,correct,correct,correct,fail,fail,correct,fail,4,graph theory,undergraduate
+Q224,fail,fail,fail,fail,fail,fail,fail,fail,fail,correct,1,graph theory,undergraduate
+Q225,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,graph theory,undergraduate
+Q226,fail,fail,correct,fail,correct,fail,fail,fail,fail,correct,3,graph theory,undergraduate
+Q227,fail,fail,fail,fail,fail,fail,correct,fail,fail,fail,1,graph theory,undergraduate
+Q228,correct,fail,fail,fail,fail,fail,fail,fail,fail,fail,1,graph theory,undergraduate
+Q229,correct,correct,correct,correct,fail,correct,fail,correct,correct,correct,8,graph theory,undergraduate
+Q230,fail,fail,fail,fail,fail,fail,correct,correct,correct,fail,3,graph theory,undergraduate
+Q231,fail,fail,correct,fail,fail,correct,correct,fail,fail,correct,4,graph theory,undergraduate
+Q232,fail,correct,correct,fail,fail,fail,correct,fail,correct,correct,5,graph theory,undergraduate
+Q233,fail,fail,fail,fail,fail,fail,fail,fail,fail,correct,1,graph theory,undergraduate
+Q234,fail,correct,fail,correct,fail,fail,fail,correct,correct,fail,4,graph theory,undergraduate
+Q235,correct,fail,correct,fail,fail,fail,correct,fail,correct,fail,4,graph theory,undergraduate
+Q236,correct,fail,correct,correct,fail,fail,correct,fail,fail,fail,4,graph theory,undergraduate
+Q237,fail,correct,correct,fail,correct,correct,fail,fail,correct,fail,5,graph theory,undergraduate
+Q238,fail,fail,fail,fail,fail,fail,fail,correct,fail,fail,1,graph theory,undergraduate
+Q239,fail,fail,fail,correct,correct,fail,fail,fail,correct,fail,3,graph theory,undergraduate
+Q240,fail,fail,fail,fail,fail,fail,fail,correct,fail,fail,1,graph theory,undergraduate
+Q241,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,graph theory,undergraduate
+Q242,correct,fail,correct,correct,correct,correct,fail,correct,fail,correct,7,graph theory,undergraduate
+Q243,fail,fail,correct,correct,fail,fail,fail,fail,correct,correct,4,graph theory,undergraduate
+Q244,correct,correct,correct,fail,correct,fail,fail,fail,fail,fail,4,graph theory,undergraduate
+Q245,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,graph theory,undergraduate
+Q246,fail,fail,fail,fail,fail,fail,fail,fail,fail,correct,1,graph theory,undergraduate
+Q247,fail,fail,fail,fail,fail,correct,fail,fail,fail,correct,2,graph theory,undergraduate
+Q248,correct,fail,fail,fail,fail,fail,fail,fail,fail,fail,1,graph theory,undergraduate
+Q249,fail,fail,fail,fail,fail,fail,fail,fail,correct,fail,1,graph theory,undergraduate
+Q250,correct,correct,correct,correct,correct,correct,correct,correct,fail,correct,9,graph theory,undergraduate
+Q251,correct,correct,correct,correct,fail,correct,fail,fail,correct,fail,6,graph theory,undergraduate
+Q252,fail,correct,fail,correct,fail,fail,fail,fail,fail,correct,3,graph theory,undergraduate
+Q253,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,graph theory,undergraduate
+Q254,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,graph theory,undergraduate
+Q255,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,graph theory,undergraduate
+Q256,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,graph theory,undergraduate
+Q257,fail,fail,fail,fail,fail,fail,fail,fail,correct,fail,1,graph theory,undergraduate
+Q258,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,graph theory,undergraduate
+Q259,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,graph theory,undergraduate
+Q260,correct,correct,correct,correct,correct,correct,fail,correct,correct,correct,9,graph theory,undergraduate
+Q261,fail,correct,fail,fail,fail,fail,fail,fail,fail,fail,1,scientific figure,high school
+Q262,correct,fail,fail,fail,fail,fail,fail,fail,fail,fail,1,scientific figure,high school
+Q263,fail,fail,fail,fail,fail,fail,fail,fail,fail,correct,1,scientific figure,high school
+Q264,fail,fail,correct,fail,fail,fail,fail,fail,fail,fail,1,scientific figure,high school
+Q265,fail,fail,fail,correct,fail,fail,correct,fail,fail,fail,2,scientific figure,high school
+Q266,correct,correct,correct,correct,correct,correct,fail,correct,fail,correct,8,scientific figure,high school
+Q267,correct,fail,correct,fail,correct,fail,fail,correct,fail,fail,4,scientific figure,high school
+Q268,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,scientific figure,high school
+Q269,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,scientific figure,high school
+Q270,correct,correct,correct,fail,correct,correct,correct,correct,fail,correct,8,scientific figure,high school
+Q271,correct,correct,correct,correct,correct,fail,correct,correct,correct,correct,9,scientific figure,high school
+Q272,correct,fail,fail,fail,fail,fail,fail,fail,fail,correct,2,scientific figure,high school
+Q273,fail,fail,fail,fail,fail,correct,fail,fail,correct,fail,2,scientific figure,high school
+Q274,correct,fail,fail,fail,fail,fail,fail,correct,fail,correct,3,scientific figure,high school
+Q275,fail,fail,correct,fail,correct,fail,correct,correct,correct,correct,6,scientific figure,high school
+Q276,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,scientific figure,high school
+Q277,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,scientific figure,high school
+Q278,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,scientific figure,undergraduate
+Q279,fail,correct,fail,correct,fail,correct,correct,fail,correct,correct,6,scientific figure,high school
+Q280,fail,correct,fail,fail,correct,fail,correct,correct,correct,fail,5,scientific figure,high school
+Q281,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,plane geometry,high school
+Q282,fail,correct,fail,fail,fail,fail,correct,correct,correct,correct,5,puzzle test,high school
+Q283,fail,fail,fail,fail,fail,fail,fail,fail,correct,fail,1,puzzle test,elementary school
+Q284,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,puzzle test,elementary school
+Q285,fail,fail,fail,fail,fail,correct,fail,fail,fail,fail,1,puzzle test,elementary school
+Q286,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,puzzle test,elementary school
+Q287,correct,fail,correct,fail,fail,fail,correct,correct,correct,correct,6,plane geometry,elementary school
+Q288,fail,fail,correct,fail,fail,fail,fail,correct,fail,fail,2,statistics,high school
+Q289,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,statistics,high school
+Q290,correct,correct,fail,fail,fail,correct,fail,correct,correct,correct,6,statistics,high school
+Q291,correct,correct,fail,correct,correct,correct,correct,correct,fail,correct,8,statistics,high school
+Q292,fail,fail,fail,fail,correct,fail,fail,fail,correct,fail,2,statistics,high school
+Q293,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,statistics,high school
+Q294,fail,fail,correct,correct,correct,correct,correct,fail,fail,fail,5,statistics,undergraduate
+Q295,fail,correct,fail,fail,fail,fail,fail,correct,fail,fail,2,statistics,undergraduate
+Q296,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,analytic geometry,undergraduate
+Q297,fail,fail,fail,fail,fail,fail,fail,fail,correct,fail,1,analytic geometry,undergraduate
+Q298,fail,correct,correct,correct,correct,fail,fail,correct,fail,correct,6,analytic geometry,undergraduate
+Q299,correct,fail,fail,fail,fail,fail,fail,correct,fail,correct,3,analytic geometry,undergraduate
+Q300,fail,fail,correct,fail,correct,fail,fail,fail,fail,fail,2,analytic geometry,undergraduate
+Q301,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,plane geometry,high school
+Q302,correct,fail,fail,correct,correct,correct,fail,fail,correct,fail,5,plane geometry,high school
+Q303,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,analytic geometry,high school
+Q304,fail,fail,correct,fail,fail,fail,fail,fail,fail,fail,1,plane geometry,high school
+Q305,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,algebra,high school
+Q306,correct,fail,correct,fail,correct,fail,fail,correct,correct,fail,5,arithmetic,elementary school
+Q307,correct,correct,correct,fail,correct,correct,correct,correct,correct,correct,9,scientific figure,high school
+Q308,correct,correct,fail,fail,correct,correct,correct,fail,correct,fail,6,scientific figure,high school
+Q309,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,scientific figure,high school
+Q310,fail,fail,fail,fail,fail,fail,correct,fail,fail,fail,1,algebra,elementary school
+Q311,fail,correct,correct,correct,fail,correct,correct,correct,correct,fail,7,scientific figure,elementary school
+Q312,fail,fail,fail,correct,fail,fail,fail,fail,fail,fail,1,puzzle test,elementary school
+Q313,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,puzzle test,elementary school
+Q314,fail,fail,correct,fail,correct,fail,fail,correct,fail,fail,3,statistics,undergraduate
+Q315,fail,fail,fail,correct,fail,fail,fail,fail,fail,fail,1,puzzle test,elementary school
+Q316,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,arithmetic,elementary school
+Q317,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,arithmetic,elementary school
+Q318,fail,fail,fail,fail,fail,correct,correct,fail,fail,fail,2,solid geometry,high school
+Q319,fail,fail,fail,fail,fail,fail,fail,correct,fail,fail,1,arithmetic,elementary school
+Q320,correct,fail,fail,correct,correct,correct,correct,fail,correct,correct,7,solid geometry,high school
+Q321,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,scientific figure,undergraduate
+Q322,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,scientific figure,undergraduate
+Q323,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,scientific figure,high school
+Q324,fail,correct,correct,fail,correct,correct,fail,fail,correct,fail,5,scientific figure,high school
+Q325,correct,fail,fail,fail,correct,fail,correct,fail,correct,fail,4,scientific figure,high school
+Q326,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,scientific figure,high school
+Q327,correct,fail,fail,fail,fail,fail,fail,fail,fail,fail,1,arithmetic,elementary school
+Q328,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,arithmetic,elementary school
+Q329,fail,correct,fail,fail,fail,fail,correct,fail,fail,correct,3,scientific figure,high school
+Q330,fail,correct,fail,fail,correct,fail,correct,fail,correct,fail,4,scientific figure,high school
+Q331,fail,fail,fail,fail,correct,fail,fail,fail,fail,correct,2,scientific figure,high school
+Q332,correct,correct,correct,correct,correct,fail,correct,correct,fail,correct,8,scientific figure,high school
+Q333,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,scientific figure,high school
+Q334,correct,correct,correct,fail,correct,fail,correct,fail,correct,correct,7,scientific figure,high school
+Q335,correct,fail,correct,correct,correct,fail,fail,correct,correct,fail,6,analytic geometry,undergraduate
+Q336,correct,correct,correct,correct,fail,correct,correct,fail,fail,correct,7,analytic geometry,undergraduate
+Q337,fail,fail,fail,fail,fail,correct,fail,fail,fail,fail,1,analytic geometry,undergraduate
+Q338,fail,fail,fail,fail,correct,fail,fail,fail,fail,fail,1,analytic geometry,undergraduate
+Q339,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,analytic geometry,undergraduate
+Q340,correct,fail,fail,correct,fail,fail,fail,fail,fail,fail,2,puzzle test,elementary school
+Q341,correct,correct,fail,correct,correct,correct,correct,correct,correct,correct,9,arithmetic,elementary school
+Q342,fail,fail,fail,correct,fail,fail,fail,fail,fail,fail,1,arithmetic,undergraduate
+Q343,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,arithmetic,elementary school
+Q344,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,scientific figure,high school
+Q345,correct,fail,correct,fail,fail,fail,fail,fail,correct,fail,3,analytic geometry,high school
+Q346,fail,correct,fail,fail,fail,fail,fail,fail,fail,fail,1,analytic geometry,high school
+Q347,fail,fail,fail,fail,fail,fail,fail,fail,correct,fail,1,analytic geometry,high school
+Q348,correct,fail,fail,correct,correct,fail,fail,correct,fail,fail,4,analytic geometry,high school
+Q349,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,scientific figure,high school
+Q350,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,puzzle test,elementary school
+Q351,fail,correct,correct,correct,fail,correct,correct,correct,correct,correct,8,algebra,undergraduate
+Q352,correct,correct,correct,fail,correct,correct,correct,correct,fail,correct,8,algebra,undergraduate
+Q353,fail,fail,correct,fail,correct,fail,correct,fail,correct,fail,4,scientific figure,high school
+Q354,correct,correct,fail,correct,fail,correct,correct,correct,fail,fail,6,scientific figure,high school
+Q355,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,arithmetic,elementary school
+Q356,correct,fail,correct,correct,correct,correct,correct,correct,correct,correct,9,arithmetic,elementary school
+Q357,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,arithmetic,elementary school
+Q358,fail,fail,fail,fail,fail,correct,correct,correct,fail,correct,4,scientific figure,undergraduate
+Q359,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,solid geometry,high school
+Q360,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,solid geometry,high school
+Q361,fail,correct,fail,fail,correct,correct,correct,fail,fail,correct,5,analytic geometry,high school
+Q362,fail,correct,correct,correct,correct,correct,fail,correct,fail,correct,7,analytic geometry,high school
+Q363,fail,fail,fail,fail,correct,fail,correct,fail,fail,fail,2,analytic geometry,high school
+Q364,fail,correct,correct,fail,correct,correct,fail,fail,correct,correct,6,statistics,undergraduate
+Q365,correct,correct,correct,fail,fail,fail,correct,correct,correct,correct,7,statistics,undergraduate
+Q366,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,statistics,undergraduate
+Q367,fail,fail,correct,fail,fail,fail,fail,fail,fail,correct,2,statistics,undergraduate
+Q368,fail,fail,correct,fail,fail,correct,fail,fail,correct,fail,3,statistics,undergraduate
+Q369,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,statistics,undergraduate
+Q370,correct,fail,fail,fail,fail,fail,fail,fail,fail,fail,1,statistics,undergraduate
+Q371,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,statistics,undergraduate
+Q372,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,statistics,undergraduate
+Q373,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,statistics,undergraduate
+Q374,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,statistics,undergraduate
+Q375,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,statistics,undergraduate
+Q376,correct,correct,correct,correct,correct,correct,correct,fail,fail,correct,8,statistics,undergraduate
+Q377,fail,correct,correct,fail,fail,fail,correct,fail,correct,fail,4,statistics,high school
+Q378,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,statistics,high school
+Q379,fail,fail,correct,fail,fail,correct,fail,correct,fail,correct,4,statistics,high school
+Q380,fail,fail,fail,fail,fail,correct,fail,correct,fail,fail,2,statistics,high school
+Q381,correct,fail,correct,correct,correct,correct,fail,correct,correct,correct,8,statistics,high school
+Q382,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,statistics,high school
+Q383,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,statistics,high school
+Q384,correct,correct,correct,fail,correct,correct,correct,correct,fail,correct,8,statistics,high school
+Q385,fail,correct,correct,correct,correct,correct,correct,correct,correct,correct,9,statistics,high school
+Q386,fail,correct,correct,fail,fail,fail,correct,fail,fail,fail,3,statistics,high school
+Q387,correct,fail,correct,correct,correct,correct,fail,correct,correct,correct,8,statistics,high school
+Q388,fail,fail,correct,correct,correct,correct,fail,correct,fail,correct,6,statistics,undergraduate
+Q389,correct,fail,fail,fail,correct,fail,correct,fail,correct,fail,4,statistics,undergraduate
+Q390,correct,correct,fail,correct,correct,correct,correct,correct,correct,fail,8,statistics,undergraduate
+Q391,fail,fail,fail,fail,fail,correct,fail,correct,fail,fail,2,statistics,undergraduate
+Q392,fail,fail,correct,correct,fail,fail,fail,fail,fail,fail,2,statistics,high school
+Q393,correct,correct,correct,correct,fail,correct,correct,correct,correct,correct,9,statistics,high school
+Q394,correct,correct,fail,correct,fail,correct,fail,correct,correct,correct,7,statistics,high school
+Q395,fail,fail,correct,fail,correct,correct,correct,correct,fail,correct,6,statistics,high school
+Q396,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,statistics,high school
+Q397,fail,fail,fail,fail,fail,fail,correct,fail,fail,fail,1,statistics,high school
+Q398,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,statistics,high school
+Q399,correct,correct,correct,correct,fail,fail,fail,correct,fail,correct,6,statistics,high school
+Q400,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,statistics,high school
+Q401,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,statistics,high school
+Q402,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,statistics,high school
+Q403,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,statistics,elementary school
+Q404,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,statistics,elementary school
+Q405,fail,fail,fail,correct,fail,fail,fail,correct,fail,fail,2,statistics,high school
+Q406,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,statistics,high school
+Q407,fail,correct,correct,correct,correct,correct,correct,fail,fail,fail,6,statistics,high school
+Q408,correct,fail,fail,fail,fail,fail,fail,fail,fail,correct,2,statistics,high school
+Q409,correct,correct,fail,correct,fail,fail,fail,correct,correct,correct,6,statistics,high school
+Q410,correct,correct,correct,correct,correct,correct,fail,correct,correct,correct,9,statistics,high school
+Q411,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,statistics,high school
+Q412,correct,correct,correct,correct,correct,fail,correct,fail,correct,fail,7,statistics,high school
+Q413,correct,correct,correct,correct,correct,correct,correct,correct,fail,correct,9,statistics,high school
+Q414,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,statistics,high school
+Q415,fail,fail,correct,correct,correct,correct,correct,fail,correct,correct,7,statistics,high school
+Q416,correct,correct,correct,fail,correct,correct,correct,fail,correct,fail,7,statistics,high school
+Q417,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,statistics,high school
+Q418,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,statistics,high school
+Q419,fail,correct,fail,fail,fail,fail,fail,fail,fail,fail,1,statistics,high school
+Q420,correct,fail,fail,correct,correct,fail,fail,fail,correct,correct,5,statistics,high school
+Q421,correct,fail,correct,correct,correct,correct,correct,correct,correct,fail,8,statistics,high school
+Q422,correct,fail,correct,correct,correct,correct,correct,correct,correct,correct,9,statistics,high school
+Q423,correct,fail,correct,correct,correct,correct,correct,correct,correct,correct,9,statistics,high school
+Q424,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,statistics,high school
+Q425,fail,correct,fail,fail,fail,fail,fail,fail,fail,fail,1,statistics,high school
+Q426,correct,correct,correct,fail,correct,correct,correct,correct,fail,correct,8,statistics,high school
+Q427,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,statistics,elementary school
+Q428,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,statistics,elementary school
+Q429,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,statistics,elementary school
+Q430,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,statistics,elementary school
+Q431,correct,correct,correct,correct,correct,fail,correct,correct,correct,correct,9,statistics,elementary school
+Q432,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,statistics,elementary school
+Q433,fail,fail,correct,fail,fail,correct,fail,correct,correct,fail,4,statistics,elementary school
+Q434,correct,correct,correct,correct,fail,correct,correct,correct,correct,correct,9,statistics,elementary school
+Q435,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,statistics,elementary school
+Q436,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,statistics,elementary school
+Q437,correct,correct,correct,correct,correct,correct,correct,fail,correct,correct,9,statistics,undergraduate
+Q438,correct,fail,correct,fail,fail,correct,correct,correct,fail,fail,5,statistics,undergraduate
+Q439,correct,correct,correct,correct,correct,correct,correct,fail,fail,correct,8,statistics,undergraduate
+Q440,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,statistics,undergraduate
+Q441,correct,correct,correct,fail,fail,fail,correct,correct,correct,correct,7,statistics,undergraduate
+Q442,correct,fail,correct,correct,fail,correct,correct,fail,correct,fail,6,statistics,undergraduate
+Q443,correct,fail,fail,fail,correct,correct,correct,correct,correct,correct,7,statistics,undergraduate
+Q444,fail,fail,fail,correct,fail,fail,fail,correct,fail,fail,2,statistics,undergraduate
+Q445,correct,fail,fail,fail,fail,fail,fail,fail,correct,fail,2,statistics,undergraduate
+Q446,correct,fail,correct,fail,fail,correct,fail,fail,fail,fail,3,statistics,undergraduate
+Q447,correct,correct,fail,fail,correct,correct,fail,correct,correct,fail,6,statistics,undergraduate
+Q448,correct,correct,correct,correct,correct,fail,correct,correct,correct,correct,9,statistics,undergraduate
+Q449,fail,fail,correct,fail,fail,fail,fail,fail,correct,correct,3,statistics,undergraduate
+Q450,fail,correct,fail,correct,fail,fail,correct,fail,fail,fail,3,statistics,undergraduate
+Q451,correct,correct,correct,correct,correct,correct,correct,correct,fail,correct,9,statistics,undergraduate
+Q452,fail,correct,fail,correct,correct,fail,fail,fail,fail,fail,3,statistics,undergraduate
+Q453,fail,fail,correct,fail,correct,fail,correct,fail,correct,correct,5,statistics,undergraduate
+Q454,fail,fail,correct,correct,fail,correct,correct,fail,fail,fail,4,statistics,undergraduate
+Q455,correct,correct,fail,correct,correct,correct,correct,fail,correct,correct,8,statistics,undergraduate
+Q456,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,statistics,undergraduate
+Q457,fail,fail,correct,correct,fail,correct,fail,correct,fail,fail,4,statistics,undergraduate
+Q458,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,statistics,undergraduate
+Q459,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,statistics,undergraduate
+Q460,correct,fail,correct,correct,correct,fail,correct,correct,correct,correct,8,statistics,undergraduate
+Q461,fail,fail,fail,correct,fail,fail,fail,fail,fail,fail,1,statistics,undergraduate
+Q462,fail,fail,fail,correct,fail,fail,correct,fail,fail,fail,2,statistics,undergraduate
+Q463,fail,fail,correct,fail,fail,fail,fail,correct,fail,fail,2,statistics,undergraduate
+Q464,correct,fail,correct,fail,correct,correct,correct,correct,fail,fail,6,algebra,high school
+Q465,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,algebra,high school
+Q466,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,algebra,high school
+Q467,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,algebra,high school
+Q468,correct,correct,correct,correct,correct,correct,correct,fail,correct,correct,9,algebra,high school
+Q469,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,algebra,high school
+Q470,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,algebra,high school
+Q471,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,algebra,high school
+Q472,correct,fail,correct,correct,correct,correct,fail,correct,correct,correct,8,algebra,high school
+Q473,correct,fail,correct,correct,correct,fail,correct,correct,correct,correct,8,algebra,high school
+Q474,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,algebra,undergraduate
+Q475,fail,correct,fail,fail,fail,fail,fail,fail,fail,fail,1,algebra,undergraduate
+Q476,correct,correct,correct,fail,fail,correct,correct,correct,fail,correct,7,algebra,undergraduate
+Q477,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,algebra,undergraduate
+Q478,fail,fail,correct,correct,correct,correct,fail,fail,correct,correct,6,algebra,undergraduate
+Q479,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,algebra,undergraduate
+Q480,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,algebra,undergraduate
+Q481,correct,correct,correct,correct,correct,fail,correct,correct,correct,correct,9,algebra,undergraduate
+Q482,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,algebra,undergraduate
+Q483,fail,fail,fail,fail,correct,fail,fail,fail,fail,fail,1,algebra,undergraduate
+Q484,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,algebra,undergraduate
+Q485,fail,fail,correct,fail,fail,fail,fail,correct,fail,fail,2,algebra,undergraduate
+Q486,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,algebra,undergraduate
+Q487,fail,correct,fail,correct,fail,fail,fail,fail,fail,fail,2,algebra,undergraduate
+Q488,correct,correct,correct,fail,correct,correct,correct,correct,correct,correct,9,algebra,undergraduate
+Q489,fail,fail,correct,fail,fail,fail,fail,correct,correct,fail,3,algebra,undergraduate
+Q490,correct,fail,correct,fail,correct,fail,correct,correct,fail,fail,5,algebra,undergraduate
+Q491,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,algebra,undergraduate
+Q492,fail,correct,correct,fail,correct,fail,fail,fail,correct,fail,4,algebra,high school
+Q493,fail,fail,fail,fail,fail,fail,fail,correct,fail,fail,1,algebra,high school
+Q494,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,algebra,high school
+Q495,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,algebra,high school
+Q496,correct,correct,correct,fail,correct,fail,correct,correct,correct,correct,8,algebra,high school
+Q497,fail,correct,correct,fail,fail,fail,fail,correct,fail,correct,4,algebra,high school
+Q498,fail,fail,fail,fail,fail,fail,fail,fail,fail,fail,0,algebra,high school
+Q499,correct,correct,correct,correct,correct,correct,correct,correct,correct,correct,10,algebra,high school
+Q500,correct,fail,correct,correct,correct,correct,correct,correct,correct,correct,9,algebra,elementary school
+Q501,fail,fail,correct,fail,correct,correct,fail,fail,correct,correct,5,algebra,elementary school
+# of correct per variant,210,204,221,206,212,210,209,212,209,204,,,
+A_avg,41.92 ,40.72 ,44.11 ,41.12 ,42.32 ,41.92 ,41.72 ,42.32 ,41.72 ,40.72 ,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

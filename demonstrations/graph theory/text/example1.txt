@@ -1,0 +1,16 @@
+Which point in the labyrinth can we get to, starting at point $O$?
+
+Answer: C
+
+Let's think this step by step: Looking at the labyrinth structure, we need to determine which points can be reached from point \( O \).
+
+Starting at \( O \), the path immediately leads outward, and we observe the following:
+
+- **Point A**: There is no direct connection to point \( A \) from point \( O \), as there are walls blocking the way.
+- **Point B**: Similarly, there are walls blocking the path from \( O \) to \( B \).
+- **Point C**: From \( O \), you can follow a clear path leading to point \( C \). There are no walls obstructing this route.
+- **Point D**: There is no way to reach point \( D \) from point \( O \), as the labyrinth walls prevent direct access.
+- **Point E**: There is no way to reach point \( E \) from point \( O \), as the labyrinth walls prevent direct access.
+
+### Conclusion:
+The only point that can be reached from point \( O \) is **C**.

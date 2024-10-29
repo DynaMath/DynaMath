@@ -1,0 +1,15 @@
+Please answer the question and provide the correct option letter, e.g., A, B, C, D, at the end. Question: Use parallelogram $ABCD$ to find $AD$ 
+Choices: (A) 6 (B) 12 (C) 18 (D) 30
+
+Answer: (C)
+
+Let's think this step by step: In parallelogram \( ABCD \), opposite sides are equal. The sides are labeled as follows:
+- \( CD = 12 \) units,
+- \( BC = 18 \) units.
+
+By the property of parallelograms, the opposite sides are equal. Therefore:
+- \( AD = BC \).
+
+Since \( BC = 18 \) units (as labeled in the diagram), it follows that \( AD = 18 \) units as well.
+
+The correct answer is **C**.

@@ -1,0 +1,45 @@
+Please determine the total weight in the fourth image.
+
+Answer: 27
+
+To solve the puzzle and determine the total weight in the fourth image, let's break it down based on the given weights:
+
+1. **First image**: A frog and a sheep together weigh **10 kg**.
+2. **Second image**: A horse and a frog together weigh **20 kg**.
+3. **Third image**: A horse and a sheep together weigh **24 kg**.
+
+We can now set up three equations to represent these situations:
+- Frog + Sheep = 10 kg (Equation 1)
+- Horse + Frog = 20 kg (Equation 2)
+- Horse + Sheep = 24 kg (Equation 3)
+
+### Solving the system of equations:
+1. From Equation 2, we can express the weight of the horse:
+   - Horse = 20 kg - Frog (from Equation 2).
+
+2. Substitute Horse in Equation 3:
+   - (20 kg - Frog) + Sheep = 24 kg.
+   - 20 kg - Frog + Sheep = 24 kg.
+   - Sheep - Frog = 4 kg (Equation 4).
+
+3. Now use Equation 1 (Frog + Sheep = 10 kg) and Equation 4 (Sheep - Frog = 4 kg):
+   - Adding these two equations:
+     (Frog + Sheep) + (Sheep - Frog) = 10 kg + 4 kg,
+     gives:
+     2 × Sheep = 14 kg,
+     so Sheep = 7 kg.
+
+4. Substitute the value of Sheep (7 kg) into Equation 1:
+   - Frog + 7 kg = 10 kg,
+     so Frog = 3 kg.
+
+5. Finally, substitute the value of Frog (3 kg) into Equation 2:
+   - Horse + 3 kg = 20 kg,
+     so Horse = 17 kg.
+
+### Total weight in the fourth image:
+- The fourth image has the horse, the sheep, and the frog together.
+- The total weight is:
+  Horse (17 kg) + Sheep (7 kg) + Frog (3 kg) = **27 kg**.
+
+Thus, the total weight in the fourth image is **27 kg**.

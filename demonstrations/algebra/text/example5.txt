@@ -1,0 +1,36 @@
+Maria has a total of 19 apples in 3 bags. She takes the same amount of apples from each bag. Then there are 3, 4 and 6 apples in the bags. <image1> How many apples did Maria take from each bag?
+
+Answer: 2
+
+Let's think this step by step: Maria had a total of 19 apples distributed among 3 bags. After taking the same number of apples from each bag, the remaining apples are 3, 4, and 6 in the respective bags.
+
+Let’s denote the number of apples Maria took from each bag as \( x \). Then the initial number of apples in the bags were:
+- In the first bag: \( 3 + x \),
+- In the second bag: \( 4 + x \),
+- In the third bag: \( 6 + x \).
+
+The total number of apples in the bags before Maria took any out was 19. Therefore, the equation becomes:
+
+\[
+(3 + x) + (4 + x) + (6 + x) = 19
+\]
+
+Simplifying this equation:
+
+\[
+3 + 4 + 6 + 3x = 19
+\]
+\[
+13 + 3x = 19
+\]
+\[
+3x = 19 - 13
+\]
+\[
+3x = 6
+\]
+\[
+x = 2
+\]
+
+Thus, Maria took **2 apples** from each bag.

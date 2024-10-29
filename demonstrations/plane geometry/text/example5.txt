@@ -1,0 +1,18 @@
+Please answer the question and provide the correct option letter, e.g., A, B, C, D, at the end. Question: In the parallelogram $ABCD$，∠A＝150°，then ∠C is（） Choices: (A) 30° (B) 75° (C) 100° (D) 150°
+
+Answer: (D)
+
+Let's think this step by step: In a parallelogram, opposite angles are equal, and adjacent angles are supplementary (their sum is \( 180^\circ \)).
+
+Given:
+- \( \angle A = 150^\circ \).
+
+Since \( \angle A \) and \( \angle C \) are opposite angles in parallelogram \( ABCD \), we know:
+
+\[
+\angle C = \angle A = 150^\circ
+\]
+
+Thus, \( \angle C = 150^\circ \).
+
+The correct option is **D**.

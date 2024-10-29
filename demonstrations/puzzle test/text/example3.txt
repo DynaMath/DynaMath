@@ -1,0 +1,17 @@
+In this visual brainteaser, you can see three glasses on the left that are full and three on the right that are empty.
+If you can make one small change, you can make a row of alternately full and empty glasses, but you can only do one change.
+What do you have to do?
+
+Answer: To achieve alternating full and empty glasses with only one change, you can follow this simple step:
+
+1. Take the second glass from the left (which is full) and pour its contents into the second glass from the right (which is empty).
+
+This way, the glasses will alternate between full and empty as follows:
+- First glass: full
+- Second glass: empty (after pouring the contents)
+- Third glass: full
+- Fourth glass: empty
+- Fifth glass: full
+- Sixth glass: empty
+
+Thus, you will have achieved the alternating pattern with just one change.

@@ -1,0 +1,18 @@
+Hanni wants to colour in the circles in the diagram. When two circles are connected by a line they should have different colours. What is the minimum number of colours she needs?
+
+Answer: 3
+
+Let's think this step by step: The diagram you provided appears to be a graph where each node (circle) needs to be colored such that no two adjacent nodes (connected by a line) have the same color. This is a classic example of a graph coloring problem.
+
+To determine the minimum number of colors needed (also known as the chromatic number of the graph), we need to analyze the structure of the graph.
+
+From the visual:
+
+- The graph is a bipartite-like structure where the center node connects to all other nodes. 
+- Each node on the left and right sides of the graph does not connect directly to each other but through the center.
+
+Since no two adjacent nodes should share the same color, the minimum number of colors Hanni needs is **3**. Here's the reasoning:
+- The two outer layers of nodes (left and right) can each be colored with the same two alternating colors (since they're not connected to each other).
+- The center node needs a third distinct color because it's connected to all other nodes.
+
+Thus, the minimum number of colors needed to satisfy the condition is **3**.

@@ -1,0 +1,53 @@
+How many plums (see the picture) weigh as much as an apple?
+
+Answer: 3
+
+Let's think this step by step: 
+### Left Side:
+- 3 apples
+- 2 plums
+
+### Right Side:
+- 1 apple
+- 8 plums
+
+Since the scale is balanced, the total weight on the left side equals the total weight on the right side.
+
+### Step-by-Step Approach:
+
+1. Let the weight of one apple be \( A \), and the weight of one plum be \( P \).
+
+2. The total weight on the **left side** of the scale:
+   \[
+   3A + 2P.
+   \]
+
+3. The total weight on the **right side** of the scale:
+   \[
+   A + 8P.
+   \]
+
+Since the scale is balanced, we can set the two expressions equal to each other:
+\[
+3A + 2P = A + 8P.
+\]
+
+### Solving for \( A \) in terms of \( P \):
+
+1. Subtract \( A \) from both sides:
+   \[
+   2A + 2P = 8P.
+   \]
+
+2. Subtract \( 2P \) from both sides:
+   \[
+   2A = 6P.
+   \]
+
+3. Divide both sides by 2:
+   \[
+   A = 3P.
+   \]
+
+### Final Answer:
+One apple weighs as much as **3 plums**.

@@ -1,0 +1,21 @@
+The two markers with a question mark have the same number. Which number do you have to put instead of the question mark so that the calculation is correct?
+
+Answer: 3
+
+Let's think this step by step: To solve the problem:
+
+The equation is:
+\[ 10 + ? + ? + 2 = 18 \]
+
+Where both question marks represent the same number. Let's denote the number as \( x \). The equation becomes:
+\[ 10 + x + x + 2 = 18 \]
+
+Combine like terms:
+\[ 12 + 2x = 18 \]
+
+Now, solve for \( x \):
+\[ 2x = 18 - 12 \]
+\[ 2x = 6 \]
+\[ x = 3 \]
+
+So, each question mark should be replaced with **3** to satisfy the equation.

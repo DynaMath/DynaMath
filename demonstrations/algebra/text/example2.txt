@@ -1,0 +1,15 @@
+Tom encodes words using the board shown. For example, the word PIZZA has the code $A 2 A 4 C 1 C 1 B 2$. What word did Tom encode as B3B2C4D2?
+(A) MAZE (B) MASK (C) MILK (D) MATE (E) MATH	
+
+Answer: (E)
+
+Let's think this step by step: We need to decode the code "B3 B2 C4 D2" using the board provided. The notation indicates the column (A, B, C, D) and row (1, 2, 3, 4) for each letter. Let’s look at each part of the code:
+
+- **B3**: In column B, row 3, the letter is **M**.
+- **B2**: In column B, row 2, the letter is **A**.
+- **C4**: In column C, row 4, the letter is **T**.
+- **D2**: In column D, row 2, the letter is **H**.
+
+Thus, the word spelled by the code "B3 B2 C4 D2" is **MATH**.
+
+Therefore, the correct option is **E**.

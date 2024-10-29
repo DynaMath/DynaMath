@@ -1,0 +1,8 @@
+What is the accuracy of the algorithm with lowest accuracy?
+
+Answer: 50
+
+Let's think this step by step: 
+From the bar chart, the algorithm with the lowest accuracy is **grill**, with an accuracy of approximately **50**.
+
+Thus, the accuracy of the algorithm with the lowest accuracy is **50**.

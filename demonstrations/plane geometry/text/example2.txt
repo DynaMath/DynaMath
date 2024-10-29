@@ -1,0 +1,35 @@
+Please answer the question and provide the correct option letter, e.g., A, B, C, D, at the end. Question: Find the area of the parallelogram. Round to the nearest tenth if necessary. 
+Choices: (A) 165 (B) 180 (C) 195 (D) 210
+
+Answer: (B)
+
+Let's think this step by step: From the image:
+- The **base** of the parallelogram is given as 15 inches.
+- The **height** is not directly provided but must be calculated using the perpendicular distance from the top of the parallelogram to the base. The given distance of 5 inches corresponds to the horizontal difference from where the height line meets the base.
+
+We have a right triangle where:
+- The hypotenuse is 13 inches (the slanted side of the parallelogram).
+- One leg (horizontal distance) is 5 inches (the offset between the two bases).
+
+To find the height, we can apply the Pythagorean theorem to this right triangle:
+\[
+\text{Height}^2 + 5^2 = 13^2
+\]
+\[
+\text{Height}^2 + 25 = 169
+\]
+\[
+\text{Height}^2 = 169 - 25 = 144
+\]
+\[
+\text{Height} = \sqrt{144} = 12 \, \text{inches}
+\]
+
+Now, we can calculate the area using the correct height:
+\[
+\text{Area} = \text{base} \times \text{height} = 15 \times 12 = 180 \, \text{square inches}
+\]
+
+Thus, the area of the parallelogram is \( 180 \) square inches.
+
+The correct option is **B**.

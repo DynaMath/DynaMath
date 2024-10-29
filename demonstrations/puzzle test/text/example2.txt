@@ -1,0 +1,21 @@
+How many blocks are in this 3D tower?
+
+Answer: 9
+
+To determine how many blocks are in this 3D tower, let's count them step by step by visualizing each layer and block:
+
+1. **Bottom layer** (the base):
+   - There are 2 visible blocks on the bottom layer, and 3 more invisible blocks hidden blow the midder layer.
+
+2. **Middle layer**:
+   - There are 3 blocks on the second layer. Two of these are stacked directly on top of the bottom layer, and one extends further outward.
+
+3. **Top layer**:
+   - There are 1 blocks on the top layer, stacked directly on blocks in the middle layer.
+
+### Total:
+- Bottom layer: 2+3=5 blocks
+- Middle layer: 3 blocks
+- Top layer: 1 blocks
+
+Thus, the total number of blocks is **9**.
