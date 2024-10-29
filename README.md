@@ -27,7 +27,7 @@
 
 Welcome to the official repository for **DynaMath: A Dynamic Visual Benchmark for Evaluating Mathematical Reasoning Robustness of Vision-Language Models**. This repository contains the code, resources, and documentation supporting our paper, which introduces DynaMath: a benchmark designed to rigorously evaluate mathematical reasoning across various vision-language models (VLMs).
 
-For further details, including the benchmark leaderboard, please visit our [project website](https://dynamath.github.io) and our [preprint paper](https://github.com/DynaMath/DynaMath/blob/main/Dynamic_Math.pdf).
+For further details, including the benchmark leaderboard, please visit our [project website](https://dynamath.github.io) and our [preprint paper](https://raw.githubusercontent.com/DynaMath/DynaMath/refs/heads/main/Dynamic_Math.pdf).
 
 ## 🌟 About DynaMath
 
