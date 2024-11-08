@@ -131,9 +131,13 @@ This will generate a batch of questions starting from index 1 to 501.
 # Citation
 If you find DynaMath helpful for your research, please cite
 ```
-@misc{zou2024dynamic,
+@misc{zou2024dynamathdynamicvisualbenchmark,
       title={DynaMath: A Dynamic Visual Benchmark for Evaluating Mathematical Reasoning Robustness of Vision Language Models}, 
       author={Chengke Zou and Xingang Guo and Rui Yang and Junyu Zhang and Bin Hu and Huan Zhang},
       year={2024},
+      eprint={2411.00836},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2411.00836}, 
 }
 ```
