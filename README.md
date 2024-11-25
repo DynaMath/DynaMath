@@ -29,6 +29,9 @@ Welcome to the official repository for **DynaMath: A Dynamic Visual Benchmark fo
 
 For further details, including the benchmark leaderboard, please visit our [project website](https://dynamath.github.io) and our [preprint paper](https://arxiv.org/abs/2411.00836).
 
+## News
+* 2024.11.25 DynaMath has been integrated into **[VLMEvalKit](https://github.com/open-compass/VLMEvalKit)**, enabling the one-command evaluation. 
+
 ## 🌟 About DynaMath
 
 The rapid advancements in Vision-Language Models (VLMs) have shown significant potential in tackling mathematical reasoning tasks that involve visual context. However, unlike humans who can reliably apply solution steps to similar problems with minor modifications, state-of-the-art VLMs such as GPT-4o often fail to maintain consistency across such variations, revealing limitations in their mathematical reasoning capabilities.
