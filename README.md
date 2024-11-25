@@ -90,6 +90,8 @@ This diverse collection of variants and topics makes DynaMath a comprehensive be
 
 ## 📖 Dataset Usage
 
+**(New!)** DynaMath has been integrated into **[VLMEvalKit](https://github.com/open-compass/VLMEvalKit)**, enabling the one-command evaluation. 
+
 ### Generating a Version of DynaMath
 
 Follow these steps to generate a version of the DynaMath dataset:
